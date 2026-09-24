@@ -45,80 +45,9 @@
 		>
 			<defs
      id="defs3871" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="21.124655"
-     inkscape:cx="6.6613697"
-     inkscape:cy="11.024378"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="699"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4132" />
-    <sodipodi:guide
-       position="2,20.000017"
-       orientation="18,0"
-       id="guide4138" />
-    <sodipodi:guide
-       position="2,2.0000174"
-       orientation="0,18"
-       id="guide4140" />
-    <sodipodi:guide
-       position="20,2.0000174"
-       orientation="-18,0"
-       id="guide4142" />
-    <sodipodi:guide
-       position="20,20.000017"
-       orientation="0,-18"
-       id="guide4144" />
-    <sodipodi:guide
-       position="3,19.000017"
-       orientation="16,0"
-       id="guide4146" />
-    <sodipodi:guide
-       position="3,3.0000174"
-       orientation="0,16"
-       id="guide4148" />
-    <sodipodi:guide
-       position="19,3.0000174"
-       orientation="-16,0"
-       id="guide4150" />
-    <sodipodi:guide
-       position="19,19.000017"
-       orientation="0,-16"
-       id="guide4152" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata3874">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
+  
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-326,-534.3622)">
     <g
@@ -126,22 +55,18 @@
        id="g6"
        style="fill:#22a7f0;fill-opacity:1">
       <path
-         inkscape:connector-curvature="0"
          d="m 530.2,118.2 c 0,17.3 -14.1,31.2 -31.4,31.2 l 0,0 c -17.4,0 -31.4,-14 -31.4,-31.2 l 0,-76.9 C 467.4,24 481.5,10 498.8,10 l 0,0 c 17.4,0 31.4,14 31.4,31.3 l 0,76.9 z"
          id="path8"
          style="fill:#22a7f0;fill-opacity:1" />
       <path
-         inkscape:connector-curvature="0"
          d="m 525.4,662 c 0,14.2 -11.6,25.7 -25.9,25.7 l -1.4,0 c -14.3,0 -25.9,-11.5 -25.9,-25.7 l 0,-83.1 c 0,-14.2 11.6,-25.8 25.9,-25.8 l 1.4,0 c 14.3,0 25.9,11.5 25.9,25.8 l 0,83.1 z"
          id="path10"
          style="fill:#22a7f0;fill-opacity:1" />
       <path
-         inkscape:connector-curvature="0"
          d="m 825.5,906.7 c 10.4,-10.7 13.8,-27.1 7.1,-41.5 L 572.6,314 c -0.2,-1.5 -0.2,-3.1 -0.2,-4.7 0,-5.4 2,-10.4 5.2,-14.3 31,-23.3 51,-60.3 51,-101.9 0,-70.6 -57.5,-127.7 -128.5,-127.8 -72.3,0 -128.6,57.2 -128.6,127.8 0,41.6 19.9,78.6 50.9,101.9 3.3,3.9 5.3,8.8 5.3,14.3 0,1.6 0,3.2 -0.2,4.7 l -260,551.2 c -6.7,14.3 -3.4,30.8 7.1,41.5 l -41,83.3 64.8,-70.2 c 17.2,4.5 35.6,-3.7 43.4,-20.2 L 489.7,374.2 c 2.3,-2.9 5.8,-4.7 9.8,-4.7 0.2,0 0.6,0 0.6,0 0.2,0 0.4,0 0.6,0 4,0 7.5,1.9 9.7,4.7 l 247.9,525.4 c 7.7,16.6 26.2,24.7 43.3,20.2 L 866.4,990 825.5,906.7 Z M 500.1,266.6 c -41,0 -73.8,-32.9 -73.8,-73.5 0,-40.5 32.9,-73.4 73.8,-73.5 40.8,0 73.8,32.9 73.8,73.5 0,40.6 -33,73.5 -73.8,73.5 z"
          id="path12"
          style="fill:#22a7f0;fill-opacity:1" />
       <path
-         inkscape:connector-curvature="0"
          d="m 781.7,622.9 c 0,9.3 -7.5,16.8 -16.9,16.8 l -532.1,0 c -9.3,0 -16.9,-7.5 -16.9,-16.8 l 0,-0.1 c 0,-9.3 7.6,-16.8 16.9,-16.8 l 532.1,0 c 9.4,0.1 16.9,7.6 16.9,16.9 l 0,0 z"
          id="path14"
          style="fill:#22a7f0;fill-opacity:1" />
@@ -159,8 +84,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg45" showgrid="false" id="namedview47" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)" gradientUnits="userSpaceOnUse" x2="0" y2="3" y1="61" id="a">
             <stop offset="0" stop-color="#19b5fe" id="stop4" />
             <stop offset="1" stop-color="#22a7f0" id="stop2" />
@@ -203,8 +127,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg43" showgrid="false" id="namedview45" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="61" y1="3" id="a">
             <stop id="stop2" stop-color="#22a7f0" />
             <stop id="stop4" stop-color="#19b5fe" offset="1" />

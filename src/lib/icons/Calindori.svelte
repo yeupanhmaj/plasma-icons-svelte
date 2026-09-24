@@ -65,15 +65,7 @@
   <linearGradient id="linearGradient1509" x1="19.511889" x2="19.511889" y1="5.8208332" y2="3.0994468" gradientTransform="translate(2.3918707,4.7625003)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1515"/>
   <linearGradient id="linearGradient1525" x1="19.511889" x2="19.511889" y1="5.8208332" y2="3.0994468" gradientTransform="translate(7.143749 -.03049597)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1515"/>
  </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+ 
  <rect x="1.0583333" y="1.0583338" width="10.583333" height="10.318749" rx="1.5874996" ry="1.5874996" fill="#00f" style="paint-order:normal"/>
  <rect x="1.0583333" y="1.0583333" width="10.583333" height="10.583333" rx="1.5875001" ry="1.5875001" fill="#99a3a5" stroke-width=".26458332" style="paint-order:markers fill stroke"/>
  <rect x="1.0583333" y="1.0583333" width="10.583333" height="10.318749" rx="1.5869061" ry="1.5869061" fill="url(#linearGradient3861)" stroke-width=".26458332" style="paint-order:markers fill stroke"/>

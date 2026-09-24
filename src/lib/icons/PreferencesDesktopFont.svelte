@@ -39,24 +39,24 @@
 			{...restProps}
 		>
 			<defs id="defs5455">
-  <linearGradient inkscape:collect="always" id="linearGradient4159">
+  <linearGradient id="linearGradient4159">
    <stop style="stop-color:#2a2c2f" id="stop4161"/>
    <stop offset="1" style="stop-color:#424649" id="stop4163"/>
   </linearGradient>
-  <linearGradient inkscape:collect="always" xlink:href="#linearGradient4159" id="linearGradient4274" y1="545.79797" y2="517.79797" x2="0" gradientUnits="userSpaceOnUse"/>
-  <linearGradient inkscape:collect="always" id="linearGradient4219">
+  <linearGradient xlink:href="#linearGradient4159" id="linearGradient4274" y1="545.79797" y2="517.79797" x2="0" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="linearGradient4219">
    <stop style="stop-color:#999a9c" id="stop4221"/>
    <stop offset="1" style="stop-color:#f4f5f5" id="stop4223"/>
   </linearGradient>
-  <linearGradient inkscape:collect="always" xlink:href="#linearGradient4219" id="linearGradient4309" y1="537.79797" y2="525.79797" x2="0" gradientUnits="userSpaceOnUse"/>
-  <linearGradient inkscape:collect="always" xlink:href="#linearGradient4227" id="linearGradient4387" y1="9" x1="9" y2="23" x2="23" gradientUnits="userSpaceOnUse"/>
-  <linearGradient inkscape:collect="always" id="linearGradient4227">
+  <linearGradient xlink:href="#linearGradient4219" id="linearGradient4309" y1="537.79797" y2="525.79797" x2="0" gradientUnits="userSpaceOnUse"/>
+  <linearGradient xlink:href="#linearGradient4227" id="linearGradient4387" y1="9" x1="9" y2="23" x2="23" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="linearGradient4227">
    <stop style="stop-color:#292c2f" id="stop4229"/>
    <stop offset="1" style="stop-opacity:0" id="stop4231"/>
   </linearGradient>
  </defs>
  <metadata id="metadata5458"/>
- <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -384.57143 -515.798)">
+ <g id="layer1" transform="matrix(1 0 0 1 -384.57143 -515.798)">
   <rect width="27.999973" x="386.57144" y="517.79797" rx="13.999987" height="27.999973" style="fill:url(#linearGradient4274)" id="rect4179"/>
   <path style="fill:url(#linearGradient4387);opacity:0.2;fill-rule:evenodd" id="path4361" d="M 13.28125 9.9707031 L 7.1699219 21.833984 L 15.302734 29.964844 C 15.535266 29.97622 15.764549 30 16 30 C 22.680701 30 28.227665 25.362327 29.640625 19.121094 L 24.289062 13.769531 L 20.960938 13.482422 L 19.058594 14.570312 L 19.138672 14.623047 L 19.074219 14.611328 L 21.697266 17.234375 L 21.160156 17.851562 L 13.28125 9.9707031 z " transform="matrix(1 0 0 1 384.57143 515.798)"/>
   <g id="text4228">

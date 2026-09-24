@@ -40,7 +40,7 @@
 		>
 			<defs id="defs3871"/>
  <metadata id="metadata3874"/>
- <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
+ <g id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
   <path style="fill:#3a539b;stroke-linecap:square;stroke-width:2" id="rect4155" d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 6 4 L 6 11 L 7 11 L 7 18 L 4 18 L 4 4 z M 9 4 L 12 4 L 12 11 L 13 11 L 13 18 L 8 18 L 8 11 L 9 11 L 9 4 z M 15 4 L 18 4 L 18 18 L 14 18 L 14 11 L 15 11 L 15 4 z " transform="matrix(1 0 0 1 326 534.3622)"/>
  </g>
 		</svg>
@@ -55,8 +55,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg37" showgrid="false" id="namedview39" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)" gradientUnits="userSpaceOnUse" x2="0" y2="3" y1="61" id="a">
             <stop offset="0" stop-color="#3f5aa9" id="stop4" />
             <stop offset="1" stop-color="#3a539b" id="stop2" />
@@ -94,8 +93,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg35" showgrid="false" id="namedview37" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="61" y1="3" id="a">
             <stop id="stop2" stop-color="#3a539b" />
             <stop id="stop4" stop-color="#3f5aa9" offset="1" />

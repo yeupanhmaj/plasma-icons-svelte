@@ -40,9 +40,9 @@
 		>
 			<defs id="defs3871"/>
  <metadata id="metadata3874"/>
- <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
-  <path inkscape:connector-curvature="0" style="fill:#04896a" id="path4154" d="m 329,537.3622 0,16 16,0 0,-16 -2,0 0,3 -2,0 0,-3 -8,0 0,3 -2,0 0,-3 -2,0 z m 1,4 14,0 0,11 -14,0 0,-11 z"/>
-  <path inkscape:connector-curvature="0" style="fill:#04896a" id="path4150" d="m 332,542.3622 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m -8,3 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 0,3 0,2 2,0 0,-2 -2,0 z"/>
+ <g id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
+  <path style="fill:#04896a" id="path4154" d="m 329,537.3622 0,16 16,0 0,-16 -2,0 0,3 -2,0 0,-3 -8,0 0,3 -2,0 0,-3 -2,0 z m 1,4 14,0 0,11 -14,0 0,-11 z"/>
+  <path style="fill:#04896a" id="path4150" d="m 332,542.3622 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m -8,3 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 4,0 0,2 2,0 0,-2 -2,0 z m 0,3 0,2 2,0 0,-2 -2,0 z"/>
  </g>
 		</svg>
 	{:else if numericSize <= 48}

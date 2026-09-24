@@ -34,15 +34,7 @@
    <stop stop-color="#da4453" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+ 
  <g transform="matrix(.26458217 0 0 .26458332 5.1009547e-5 9.3397921)">
   <g transform="translate(0,-35.300002)">
    <rect x="4" y="3.9999998" width="40" height="40" rx="6" ry="6" fill="#34495e" style="paint-order:stroke fill markers"/>

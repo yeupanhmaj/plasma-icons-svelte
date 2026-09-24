@@ -38,20 +38,9 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1360" inkscape:window-height="708" id="namedview14" showgrid="true" inkscape:zoom="21.454545" inkscape:cx="11.905244" inkscape:cy="9.3476965" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="layer1" inkscape:object-nodes="true">
-    <inkscape:grid type="xygrid" id="grid4151"/>
-  </sodipodi:namedview>
-  <defs id="defs3871"/>
-  <metadata id="metadata3874">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
+			<defs id="defs3871"/>
+  
+  <g id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
     <path style="opacity:1;fill:#94408b;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 4 3 C 3.4459904 3 3 3.4459904 3 4 L 3 18 C 3 18.55401 3.4459904 19 4 19 L 15 19 C 15.55401 19 16 18.55401 16 18 L 16 17 L 18 17 C 18.55401 17 19 16.55401 19 16 L 19 13 C 19 12.81363 18.935732 12.649055 18.847656 12.5 C 18.935732 12.350945 19 12.18637 19 12 L 19 9 C 19 8.8136299 18.935732 8.6490553 18.847656 8.5 C 18.935732 8.3509447 19 8.1863701 19 8 L 19 5 C 19 4.44599 18.55401 4 18 4 L 16 4 C 16 3.4459904 15.55401 3 15 3 L 4 3 z M 4 4 L 15 4 L 15 18 L 4 18 L 4 4 z M 5 5 L 5 8 L 14 8 L 14 5 L 5 5 z M 16 5 L 18 5 L 18 8 L 16 8 L 16 5 z M 16 9 L 18 9 L 18 12 L 16 12 L 16 9 z M 5 10 L 5 11 L 14 11 L 14 10 L 5 10 z M 5 12 L 5 13 L 14 13 L 14 12 L 5 12 z M 16 13 L 18 13 L 18 16 L 16 16 L 16 13 z M 5 14 L 5 15 L 14 15 L 14 14 L 5 14 z M 5 16 L 5 17 L 14 17 L 14 16 L 5 16 z " transform="translate(326,534.3622)" id="rect4153"/>
   </g>
 		</svg>
@@ -66,8 +55,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg37" showgrid="false" id="namedview39" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)" gradientUnits="userSpaceOnUse" x2="0" y2="3" y1="61" id="a">
             <stop offset="0" stop-color="#9b4792" id="stop4" />
             <stop offset="1" stop-color="#913d88" id="stop2" />
@@ -105,41 +93,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata39">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview37"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:zoom="1"
-     inkscape:cx="36.561651"
-     inkscape:cy="28.512949"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4219" />
-  </sodipodi:namedview>
-  <defs
+			<defs
      id="defs4">
     <linearGradient
        id="a"
@@ -288,15 +242,12 @@
     <path
        id="path4193"
        d="M 54,17 40,3 40,17 Z"
-       inkscape:connector-curvature="0"
        style="opacity:0.5;fill:#ffffff;fill-rule:evenodd" />
     <path
        style="opacity:0.2;fill:url(#b-6);fill-rule:evenodd"
        id="path4195"
-       d="M 40,17 54,31 54,17 Z"
-       inkscape:connector-curvature="0" />
+       d="M 40,17 54,31 54,17 Z" />
     <path
-       inkscape:connector-curvature="0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.75;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path35"
        d="m 22,22 c -0.554,0 -1,0.446 -1,1 l 0,20 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l 0,-1 1,0 c 0.554,0 1,-0.446 1,-1 l 0,-4 C 43,36.814 42.936,36.649 42.848,36.5 42.936,36.351 43,36.186 43,36 l 0,-4 C 43,31.814 42.936,31.649 42.848,31.5 42.936,31.351 43,31.186 43,31 l 0,-4 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-3 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 18,0 0,20 -18,0 z m 1,2 0,1 7,0 0,-1 z m 9,0 0,1 7,0 0,-1 z m 9,2 1,0 0,4 -1,0 z m -18,1 0,1 7,0 0,-1 z m 9,0 0,1 7,0 0,-1 z m -9,3 0,1 7,0 0,-1 z m 9,0 0,1 7,0 0,-1 z m 9,1 1,0 0,4 -1,0 z m -18,2 0,1 7,0 0,-1 z m 9,0 0,1 7,0 0,-1 z m -9,3 0,1 7,0 0,-1 z m 9,0 0,1 7,0 0,-1 z m 9,0 1,0 0,4 -1,0 z m -18,3 0,1 7,0 0,-1 z m 9,0 0,1 7,0 0,-1 z" />

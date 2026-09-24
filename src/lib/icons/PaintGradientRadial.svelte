@@ -37,7 +37,6 @@
        class="ColorScheme-Text" />
     </linearGradient>
     <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3778"
        id="radialGradient3786"
        cx="12"
@@ -50,8 +49,6 @@
   </defs>
      <g transform="translate(-421.71429,-531.79074)">
     <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
        style="opacity:1;fill:url(#radialGradient3786);fill-opacity:1;stroke:none;stroke-opacity:1"
        d="m 423.71429,533.79072 0,10.50002 0,0.75 0,0.75 12.00001,0 0,-12.00002 z"
        id="rect4151-6" />

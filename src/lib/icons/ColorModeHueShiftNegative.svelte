@@ -25,16 +25,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata id="metadata10">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs8">
+			<defs id="defs8">
   <path id="H" d="m24 8c-8.864 0-16 7.136-16 16h16v-16" fill="url(#0)"/>
   <path id="I" d="m408.57 539.8c8.864 0 16-7.136 16-16h-16v16" fill="url(#3)"/>
   <path id="J" d="m408.57 539.8c-8.864 0-16-7.136-16-16h16v16" fill="url(#1)"/>

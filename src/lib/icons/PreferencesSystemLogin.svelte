@@ -38,30 +38,9 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview46"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="68.252043"
-     inkscape:cy="16"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
+			<defs
      id="defs5455">
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4303"
        id="linearGradient4346"
        y1="542.79797"
@@ -70,7 +49,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-7e-5,2)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4303">
       <stop
          style="stop-color:#c6cdd1"
@@ -81,7 +59,6 @@
          id="stop4307" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4293"
        id="linearGradient4173"
        y1="519.79797"
@@ -90,7 +67,6 @@
        x2="410.57144"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4293">
       <stop
          id="stop4295" />
@@ -100,7 +76,6 @@
          id="stop4297" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4338"
        y1="538.79797"
@@ -109,7 +84,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.2105271,-3.00004,-111.43158)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4159">
       <stop
          style="stop-color:#2a2c2f"
@@ -120,7 +94,6 @@
          id="stop4163" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4303"
        id="linearGradient4270"
        y1="524.79797"
@@ -129,7 +102,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,-0.99999997,0,-2.999886)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4303"
        id="linearGradient4274"
        y1="524.79797"
@@ -138,7 +110,6 @@
        x2="0"
        gradientTransform="matrix(1,0,0,-1,0,-2.999888)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4172">
       <stop
          style="stop-color:#39a1d8"
@@ -149,7 +120,6 @@
          id="stop4176" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4410"
        id="linearGradient4373"
        y1="5.00016"
@@ -159,7 +129,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(384.57144,518.798)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4410">
       <stop
          style="stop-color:#383e51"
@@ -170,7 +139,6 @@
          id="stop4414" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4172"
        id="linearGradient4351"
        y1="536.79797"
@@ -178,7 +146,6 @@
        x2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4189"
        gradientUnits="userSpaceOnUse"
@@ -187,20 +154,8 @@
        x2="0"
        y2="519.79797" />
   </defs>
-  <metadata
-     id="metadata5458">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="matrix(1 0 0 1 -384.57143 -515.798)">
     <flowRoot
@@ -243,12 +198,10 @@
        style="fill:#99a1a7"
        id="rect4323" />
     <path
-       inkscape:connector-curvature="0"
        style="opacity:0.2;fill:url(#linearGradient4173);fill-rule:evenodd"
        id="path4165"
        d="m 385.57143,536.79801 4,4 27,0 0,-21 -1,-1 0,18 z" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#linearGradient4189)"
        id="rect4319"
        d="m 384.57143,517.79801 0,23 32,0 0,-23 -32,0 z m 1,1 30,0 0,18 -30,0 0,-18 z" />
@@ -261,7 +214,6 @@
        id="rect4258"
        transform="scale(1,-1)" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#linearGradient4373);fill-rule:evenodd"
        id="path4361"
        d="m 407.57143,524.798 0,3 -14,0 4,4 -4,0 9,9 14,0 0,-4 0,-3 -9,-9 z" />
@@ -298,7 +250,6 @@
        id="path4278-5"
        r="0.5" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#linearGradient4338)"
        id="path4424"
        d="m 384.57143,517.79801 0,23 32,0 0,-23 -32,0 z m 1,1 30,0 0,18 -30,0 0,-18 z" />

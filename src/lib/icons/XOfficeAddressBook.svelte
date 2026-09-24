@@ -38,47 +38,13 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="709"
-     inkscape:window-height="480"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="1.1186443"
-     inkscape:cy="11"
-     inkscape:window-x="298"
-     inkscape:window-y="99"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
-  <defs
+			<defs
      id="defs3871" />
-  <metadata
-     id="metadata3874">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="matrix(1 0 0 1 -326 -534.3622)">
     <path
-       inkscape:connector-curvature="0"
        style="fill:#f7a01c;fill-opacity:1;stroke:none"
        d="m 331,537.3622 0,1 0,1 -2,0 0,3 2,0 0,6 -2,0 0,3 2,0 0,2 1,0 13,0 0,-1 0,-14 0,-1 -14,0 m 1,1 2,0 0,14 -2,0 0,-14 m 3,0 9,0 0,14 -9,0 0,-14"
        class="ColorScheme-Text"
@@ -132,8 +98,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg35" showgrid="false" id="namedview37" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="61" y1="3" id="a">
             <stop offset="0" stop-color="#f89406" id="stop4" />
             <stop offset="1" stop-color="#f39c12" id="stop2" />

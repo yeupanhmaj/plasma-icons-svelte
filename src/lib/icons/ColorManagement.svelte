@@ -25,19 +25,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
+			<defs
      id="defs8">
     <path
        d="m24 8c-8.863992 0-16 7.136008-16 16h16v-16"
@@ -160,7 +148,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#2"
        id="linearGradient3480"
        gradientUnits="userSpaceOnUse"
@@ -169,7 +156,6 @@
        x2="408.57"
        y2="507.8" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#2"
        id="linearGradient3482"
        gradientUnits="userSpaceOnUse"
@@ -178,7 +164,6 @@
        x2="408.57"
        y2="507.8" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#1"
        id="linearGradient3484"
        gradientUnits="userSpaceOnUse"
@@ -187,7 +172,6 @@
        x2="408.57"
        y2="539.8" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#2"
        id="linearGradient3486"
        gradientUnits="userSpaceOnUse"
@@ -196,7 +180,6 @@
        x2="408.57"
        y2="507.8" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#2"
        id="linearGradient3488"
        gradientUnits="userSpaceOnUse"
@@ -205,26 +188,7 @@
        x2="408.57"
        y2="507.8" />
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1375"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="7.9322034"
-     inkscape:cy="7.4576271"
-     inkscape:window-x="0"
-     inkscape:window-y="36"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+  
   <g
      id="g3389"
      transform="matrix(0.93665727,0,0,0.93660767,-2.303527,-967.34673)">
@@ -252,7 +216,6 @@
          id="path3397"
          clip-path="url(#7)"
          d="m 408.57143,507.798 c 8.86399,0 16,7.13601 16,16 l -16,0 0,-16"
-         inkscape:connector-curvature="0"
          style="fill:url(#linearGradient3480)" />
       <use
          id="use3399"
@@ -299,7 +262,6 @@
          id="path3409"
          clip-path="url(#C)"
          d="m 408.57143,507.798 c 8.86399,0 16,7.13601 16,16 l -16,0 0,-16"
-         inkscape:connector-curvature="0"
          style="fill:url(#linearGradient3482);filter:url(#4)" />
     </g>
     <use
@@ -317,7 +279,6 @@
        transform="matrix(0.28284,0.28284,-0.28284,0.28284,43.591,777.65)"
        clip-path="url(#A)"
        d="m 408.57143,539.798 c -8.86399,0 -16,-7.13601 -16,-16 l 16,0 0,16"
-       inkscape:connector-curvature="0"
        style="opacity:0.35;fill:url(#linearGradient3484)" />
     <use
        id="use3415"
@@ -334,7 +295,6 @@
        transform="matrix(0.28284,0.28284,-0.28284,0.28284,43.591,777.65)"
        clip-path="url(#C)"
        d="m 408.57143,507.798 c 8.86399,0 16,7.13601 16,16 l -16,0 0,-16"
-       inkscape:connector-curvature="0"
        style="opacity:0.35;fill:url(#linearGradient3486)" />
     <g
        id="g3419"
@@ -371,7 +331,6 @@
          id="path3427"
          clip-path="url(#G)"
          d="m 408.57143,507.798 c 8.86399,0 16,7.13601 16,16 l -16,0 0,-16"
-         inkscape:connector-curvature="0"
          style="opacity:0.3;fill:url(#linearGradient3488)" />
     </g>
   </g>
@@ -456,19 +415,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
+			<defs
      id="defs8">
     <path
        fill="url(#0)"

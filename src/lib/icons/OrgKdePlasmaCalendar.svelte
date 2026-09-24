@@ -47,18 +47,15 @@
   <path
      style="opacity:1;fill:#970012;fill-opacity:1;stroke:none"
      d="m 176,116 0,27 30,0 0,-27 -30,0 z m 1,1 28,0 0,25 -28,0 0,-25 z"
-     id="rect12792"
-     inkscape:connector-curvature="0" />
+     id="rect12792" />
   <path
      style="opacity:1;fill:#86b600;fill-opacity:1;stroke:none"
      d="m 50,172 0,27.00004 30,0 L 80,172 50,172 Z m 1,1 28,0 0,25.00004 -28,0 L 51,173 Z"
-     id="rect12792-9"
-     inkscape:connector-curvature="0" />
+     id="rect12792-9" />
   <path
      style="opacity:1;fill:#0082e8;fill-opacity:1;stroke:none"
      d="m 113,200.00004 0,27 30,0 0,-27 -30,0 z m 1,1 28,0 0,25 -28,0 0,-25 z"
-     id="rect12792-7"
-     inkscape:connector-curvature="0" />
+     id="rect12792-7" />
   <path
      style="fill:currentColor;fill-opacity:1;stroke:none" 
      class="ColorScheme-Background"

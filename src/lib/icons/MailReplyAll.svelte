@@ -25,56 +25,16 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     id="namedview8"
-     showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="4.6599621"
-     inkscape:cy="7.7606839"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:object-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3344" />
-  </sodipodi:namedview>
-  
-  <path
+			<path
      style="fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-Text"
      d="M 6,4 1,8 6,12 6,10.71875 2.6015625,8 6,5.28125 6,4 Z"
-     id="rect3348-8-9-7"
-     inkscape:connector-curvature="0" />
+     id="rect3348-8-9-7" />
   <path
      style="fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-Text"
      d="M 9,4 4,8 9,12 9,9 14,9 14,7 9,7 Z"
-     id="rect3348-8-9"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
+     id="rect3348-8-9" />
 		</svg>
 	{:else if numericSize <= 27}
 		<svg

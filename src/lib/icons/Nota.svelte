@@ -20,16 +20,7 @@
 	style="color: {color}; {style}"
 	{...restProps}
 >
-	<metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
+	<defs>
   <linearGradient id="a" x1="428.81601" x2="388.86499" y1="547.63397" y2="499.67899" gradientTransform="translate(-384.57,-499.8)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#bdc3c7" offset="0"/>
    <stop stop-color="#eff0f1" offset="1"/>

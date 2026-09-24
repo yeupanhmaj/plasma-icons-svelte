@@ -25,16 +25,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata id="metadata3704">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(0 -1036.4)">
+			<g id="layer1" transform="translate(0 -1036.4)">
   <path id="path4303" class="ColorScheme-Text" style="fill:currentColor" d="m5 2v2 5h1v-5h7v5h1v-5-2h-9zm-2.9141 7.3008l-0.707 0.7072 1.4141 1.414-1.4141 1.414 0.707 0.707 1.4141-1.414 1.4141 1.414 0.707-0.707-1.4141-1.414 1.4141-1.414-0.707-0.7072-1.4141 1.4142-1.4141-1.4142zm8.0001 0l-0.7071 0.7072 1.4141 1.414-1.4141 1.414 0.7071 0.707 1.414-1.414 1.414 1.414 0.707-0.707-1.414-1.414 1.414-1.414-0.707-0.7072-1.414 1.4142-1.414-1.4142z" transform="translate(0,1036.4)"/>
  </g>
 		</svg>

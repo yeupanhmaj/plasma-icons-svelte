@@ -38,42 +38,10 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="676"
-     inkscape:window-height="708"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="680"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1-8" />
-  <defs
+			<defs
      id="defs3871" />
-  <metadata
-     id="metadata3874">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      style="fill:#f27935"
      id="layer1-8"
      transform="matrix(1 0 0 1 0 -1030.3622)">

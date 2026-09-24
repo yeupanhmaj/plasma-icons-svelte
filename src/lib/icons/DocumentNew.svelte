@@ -58,49 +58,10 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
-     id="namedview8"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="16"
-     inkscape:cy="14.711864"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4138" />
-  </sodipodi:namedview>
-  
-  <path
+			<path
      style="fill:currentColor;fill-opacity:1;stroke:none"
      d="m 6,4 0,24 9,0 0,-1 -8,0 0,-22 11,0 0,7 7,0 0,5 1,0 0,-6 L 19,4 18,4 6,4 Z m 14,13 0,5 -5,0 0,1 5,0 0,5 1,0 0,-5 5,0 0,-1 -5,0 0,-5 -1,0 z"
      id="path6"
-     class="ColorScheme-Text"
-     inkscape:connector-curvature="0" />
+     class="ColorScheme-Text" />
 		</svg>
 	{/if}

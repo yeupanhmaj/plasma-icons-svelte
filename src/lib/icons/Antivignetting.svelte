@@ -23,7 +23,6 @@
 	<defs id="defs3051">
     
     <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4469"
        id="radialGradient4475"
        cx="555.57141"
@@ -34,7 +33,6 @@
        gradientTransform="translate(0,-1.7975178e-4)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4469">
       <stop
          style="stop-color:#b3b3b3;stop-opacity:1;"

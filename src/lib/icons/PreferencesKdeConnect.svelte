@@ -28,7 +28,6 @@
 			<defs
      id="defs11">
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4298"
        y1="545.79797"
@@ -37,7 +36,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(8.7145775,0,0,9.2325325,-3261.0944,-4952.5866)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4159">
       <stop
          style="stop-color:#2a2c2f"
@@ -48,7 +46,6 @@
          id="stop4163" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4173"
        y1="524.79797"
@@ -58,7 +55,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(8.7145775,0,0,9.2325325,-3261.0944,-4952.5866)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4227">
       <stop
          style="stop-color:#292c2f"
@@ -69,7 +65,6 @@
          id="stop4231" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4303"
        id="linearGradient4381"
        y1="543.79797"
@@ -78,7 +73,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(7.9567793,0,0,8.8311078,-2954.89,-4734.6937)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4303">
       <stop
          style="stop-color:#c6cdd1"
@@ -89,24 +83,7 @@
          id="stop4307" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="namedview11"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="14.584077"
-     inkscape:cx="7.6796082"
-     inkscape:cy="27.392888"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg11" />
+  
   <linearGradient
      id="a"
      gradientTransform="matrix(.62500053 0 0 .64285716 -239.35737 -330.87014)"
@@ -214,25 +191,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="16"
-     inkscape:cx="16.34375"
-     inkscape:cy="21.71875"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
+			<defs
      id="defs5455">
     <radialGradient
        id="b"
@@ -252,7 +211,6 @@
          id="stop4" />
     </radialGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4298"
        y1="545.79797"
@@ -261,7 +219,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(8.7145775,0,0,9.2325325,-3261.0944,-4952.5866)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4159">
       <stop
          style="stop-color:#2a2c2f"
@@ -272,7 +229,6 @@
          id="stop4163" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4173"
        y1="524.79797"
@@ -282,7 +238,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(8.7145775,0,0,9.2325325,-3261.0944,-4952.5866)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4227">
       <stop
          style="stop-color:#292c2f"
@@ -293,7 +248,6 @@
          id="stop4231" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4303"
        id="linearGradient4381"
        y1="543.79797"
@@ -302,7 +256,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(7.9567793,0,0,8.8311078,-2954.89,-4734.6937)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4303">
       <stop
          style="stop-color:#c6cdd1"
@@ -316,8 +269,6 @@
   <metadata
      id="metadata5458" />
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="matrix(1 0 0 1 -384.57143 -515.798)">
     <g

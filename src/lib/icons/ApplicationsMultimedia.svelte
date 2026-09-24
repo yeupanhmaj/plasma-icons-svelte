@@ -56,30 +56,9 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview45"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="16"
-     inkscape:cy="16"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
+			<defs
      id="defs5455">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4159">
       <stop
          style="stop-color:#2a2c2f"
@@ -90,7 +69,6 @@
          id="stop4163" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4223"
        y1="545.79797"
@@ -99,7 +77,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-8)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4235"
        y1="-533.79797"
@@ -108,7 +85,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,2)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4391">
       <stop
          stop-color="#21c9fb" />
@@ -116,7 +92,6 @@
          offset="1" stop-color="#197cf1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4391"
        id="linearGradient4343"
        y1="541.79797"
@@ -124,7 +99,6 @@
        x2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4220"
        y1="524.79797"
@@ -134,7 +108,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-2)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4227">
       <stop
          style="stop-color:#292c2f"
@@ -145,7 +118,6 @@
          id="stop4231" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4346"
        xlink:href="#linearGradient4303"
        y1="542.79797"
@@ -154,7 +126,6 @@
        x2="0"
        gradientTransform="translate(-7e-5,2.00001)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4303">
       <stop
          style="stop-color:#c6cdd1"
@@ -165,7 +136,6 @@
          id="stop4307" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4338"
        xlink:href="#linearGradient4159"
        y1="538.79797"
@@ -174,20 +144,8 @@
        x2="0"
        gradientTransform="matrix(1,0,0,1.2105271,-3.00004,-111.43157)" />
   </defs>
-  <metadata
-     id="metadata5458">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="matrix(1 0 0 1 -384.57143 -515.798)">
     <flowRoot
@@ -230,7 +188,6 @@
        style="opacity:0.3;fill:#ebf9fe"
        id="rect4225" />
     <path
-       inkscape:connector-curvature="0"
        style="opacity:0.2;fill:url(#linearGradient4220);fill-rule:evenodd"
        id="path4212"
        d="m 404.57143,523.69839 -7,7.09961 10,10 9,0 0,-5 -12,-12.09961 z" />
@@ -244,12 +201,10 @@
        id="rect4227"
        transform="scale(1,-1)" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-rule:evenodd"
        id="path4237"
        d="m 398.57143,523.798 0,6 4.5,-3 z" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#linearGradient4338)"
        id="rect4319"
        d="m 384.57143,517.79802 0,23 32,0 0,-23 -32,0 z m 1,1 30,0 0,18 -30,0 0,-18 z" />

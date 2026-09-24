@@ -38,14 +38,7 @@
   </linearGradient>
   <linearGradient id="7" x2="0" y1="4" y2="44" gradientTransform="matrix(.5 0 0 .5 386.57 505.8)" gradientUnits="userSpaceOnUse" xlink:href="#2"/>
  </defs>
- <metadata id="metadata24">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+ 
  <g id="g76" transform="translate(-384.57 -499.8)">
   <g id="g34" transform="matrix(1.4 0 0 1.4 -155.43 -207.12)">
    <rect id="rect28" x="388.57" y="507.8" width="20" height="20" rx="10" fill="url(#5)"/>

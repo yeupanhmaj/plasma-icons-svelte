@@ -57,44 +57,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="2552"
-     inkscape:window-height="1387"
-     id="namedview16"
-     showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="18.203417"
-     inkscape:cy="14.567524"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg14">
-    <inkscape:grid
-       type="xygrid"
-       id="grid868" />
-  </sodipodi:namedview>
-  
-  <path
+			<path
      style="fill:currentColor;fill-opacity:1;stroke:none"
      d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z "
      class="ColorScheme-Accent"
@@ -113,12 +76,10 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     inkscape:connector-curvature="0"
      style="color:#31363b;fill:currentColor;fill-opacity:0.6;stroke:none"
      d="m 16,12 -6,2 v 8 l 6,2 6,-2 v -8 z m 0,1 v 2.836291 L 15.5,16.1 11,14.56 Z m 5,2 v 6.4 L 16,23 v -6 z"
      class="ColorScheme-Text"
-     id="path12-5"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+     id="path12-5" />
 		</svg>
 	{:else if numericSize <= 80}
 		<svg
@@ -166,35 +127,28 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<!-- style definitions -->
-  
-
-  <!-- folder bg -->
-  <path
+			<path
     style="fill:currentColor"
     class="ColorScheme-Accent"
     d="m6 9v21h-1v57h86v-63h-1v-9h-42l-6-6z" />
 
-  <!-- folder fg -->
+  
   <path
     d="m6 9v21h27l6-6h51v-9h-42l-6-6z"
     fill-opacity=".33" />
 
-  <!-- folder highlight -->
+  
   <path
     d="m42 9 5 7h43v-1h-42zm-3 15-6 6h-28v1h29z"
     fill="#fff"
     fill-opacity=".2" />
 
-  <!-- folder shadow -->
+  
   <path
     d="m39 24-7 5h-26v1h27zm-34 62v1h86v-1z"
     fill-opacity=".2" />
 
-  <!--
-    flatpak logo, kinda.
-    the smaller sizes are horizontally flipped, so this matches that.
-  -->
+  
   <path
     d="m48 41.5c-.346328.000113-.689873.08962-1 .269531l-11.988281 5.560547c-.931058.537182-1.007191 1.260232-1.011719 1.767578v13.452734c0 .499999-.05235 1.356783 1.011719 1.970703l11.988281 5.564454h.0039c.309126.178415.651189.265513.996094.265625.344905-.000112.686968-.08721.996094-.265625h.003912l11.988281-5.564453c1.064066-.613922 1.011719-1.470705 1.011719-1.970704v-12.749609-.5c0-.0625.000647-.130647 0-.203125-.0045-.507345-.08066-1.230397-1.011719-1.767578l-11.988281-5.560547c-.310127-.179908-.653672-.269418-1-.269531zm0 .978515v10.822266l12.066406-4.878906c.933587-.250156.933594.378906.933594.841797v13.685157c-.000141.0082.000408.01721 0 .02539-.01266.253739-.153993.48378-.375.611328l-12.386719 5.75c-.076905.025141-.157372.037674-.238281.03711v-16.071876l-12.597656-5.048828 12.33789-5.728516c.08326-.03019.171204-.0454.259766-.04492z"
     style="fill:currentColor;fill-opacity:0.6"

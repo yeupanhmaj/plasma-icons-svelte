@@ -1,65 +1,145 @@
-# Svelte library
+# plasma-icons-svelte
 
-Everything you need to build a Svelte library, powered by [`sv`](https://npmjs.com/package/sv).
+Full **KDE Breeze** icon library packaged as native, tree-shakeable **Svelte 5** components.
 
-Read more about creating a library [in the docs](https://svelte.dev/docs/kit/packaging).
+Over **2,900+ unique icons** across all KDE categories (`actions`, `apps`, `status`, `places`, `devices`, `preferences`, etc.) with built-in multi-size adaptive vector rendering.
 
-## Creating a project
+---
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Features
 
-```sh
-# create a new project in the current directory
-npx sv create
+- ⚡ **Native Svelte 5**: Built using Svelte 5 snippets and runes, fully tree-shakeable.
+- 🎨 **Adaptive Multi-Size**: Icons automatically switch to their dedicated pixel-hinted vector designs (16px, 22px, 32px, etc.) based on the `size` prop.
+- 🌈 **Color Inheritance**: Defaults to `currentColor` so icons effortlessly adopt their parent element's text color, buttons, and theme styles.
+- 🌓 **KDE / Plasma Semantic Colors**: Optional CSS stylesheet mapping KDE Breeze semantic accent classes (`ColorScheme-NegativeText`, `ColorScheme-PositiveText`, `ColorScheme-Highlight`) to CSS variables.
+- 📦 **Zero Runtime Dependencies**: Pure SVG markup compiled directly into typed Svelte components.
+- 🔍 **TypeScript Ready**: Full type declarations and autocompletion for all icon names and props.
 
-# create a new project in my-app
-npx sv create my-app
+---
+
+## Installation
+
+```bash
+pnpm add plasma-icons-svelte
+# or
+npm install plasma-icons-svelte
+# or
+yarn add plasma-icons-svelte
 ```
 
-To recreate this project with the same configuration:
+---
 
-```sh
-# recreate this project
-pnpm dlx sv@0.17.1 create --template library --types ts --install pnpm plasma-icons-svelte
+## Quick Start
+
+### 1. Basic Usage
+
+Import any icon component directly:
+
+```svelte
+<script lang="ts">
+  import { EditCopy, DocumentSave, Folder, SettingsConfigure } from 'plasma-icons-svelte';
+</script>
+
+<!-- Render with default size (22px or 16px) and current text color -->
+<EditCopy />
+
+<!-- Customize size (number in px or string) -->
+<DocumentSave size={16} />
+
+<!-- Customize color -->
+<Folder size={32} color="#3daee9" />
+
+<!-- Add custom class and attributes -->
+<SettingsConfigure class="my-icon" aria-label="Settings" onclick={() => console.log('clicked')} />
 ```
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### 2. Semantic Theme Colors
 
-```sh
-npm run dev
+To enable KDE Breeze semantic colors (e.g. error reds on `dialog-error`, warning oranges, success greens, or accent blues), import the stylesheet in your root layout:
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+```svelte
+<!-- +layout.svelte or App.svelte -->
+<script>
+  import 'plasma-icons-svelte/plasma-icons.css';
+</script>
 ```
 
-Everything inside `src/lib` is part of your library, everything inside `src/routes` can be used as a showcase or preview app.
+The stylesheet maps semantic classes to standard CSS variables:
 
-## Building
+| Class | Variable | Default Fallback |
+| :--- | :--- | :--- |
+| `.ColorScheme-Text` | `currentColor` | Current text color |
+| `.ColorScheme-NegativeText` | `--plasma-color-danger` | `#da4453` |
+| `.ColorScheme-PositiveText` | `--plasma-color-success` | `#27ae60` |
+| `.ColorScheme-NeutralText` | `--plasma-color-warning` | `#f67400` |
+| `.ColorScheme-Highlight` / `.ColorScheme-Accent` | `--plasma-color-primary` | `#3daee9` |
 
-To build your library:
+---
 
-```sh
-npm pack
+### 3. Tree-Shaking & Subpath Imports
+
+Named imports from `'plasma-icons-svelte'` are tree-shakeable:
+
+```svelte
+<script>
+  import { EditCopy, ViewRefresh } from 'plasma-icons-svelte';
+</script>
 ```
 
-To create a production version of your showcase app:
+You can also import directly from the `/icons` subpath:
 
-```sh
-npm run build
+```svelte
+<script>
+  import EditCopy from 'plasma-icons-svelte/icons/EditCopy';
+</script>
 ```
 
-You can preview the production build with `npm run preview`.
+---
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+## Component Props
 
-## Publishing
+Every icon component accepts the following props (in addition to all standard SVG element attributes):
 
-Go into the `package.json` and give your package the desired name through the `"name"` option. Also consider adding a `"license"` field and point it to a `LICENSE` file which you can create from a template (one popular option is the [MIT license](https://opensource.org/license/mit/)).
+| Prop | Type | Default | Description |
+| :--- | :--- | :--- | :--- |
+| `size` | `number \| string` | `22` (or `16`) | The rendered width and height of the icon. |
+| `color` | `string` | `'currentColor'` | The SVG fill/stroke color. |
+| `class` | `string` | `''` | Extra CSS classes applied to `<svg>`. |
+| `style` | `string` | `''` | Inline styles applied to `<svg>`. |
+| `...restProps` | `SVGAttributes<SVGSVGElement>` | — | Any other standard SVG attributes (`aria-hidden`, `tabindex`, `onclick`, etc.). |
 
-To publish your library to [npm](https://www.npmjs.com):
+---
 
-```sh
-npm publish
+## Adaptive Size Example
+
+Breeze icons often provide specialized designs optimized for 16px (menus/toolbars), 22px (desktop actions), and 32px+. `plasma-icons-svelte` automatically selects the pixel-hinted vector version:
+
+```svelte
+<!-- Renders the 16x16 pixel-hinted path -->
+<DocumentSave size={16} />
+
+<!-- Renders the 22x22 primary action path -->
+<DocumentSave size={22} />
+
+<!-- Renders the 32x32 detailed path -->
+<DocumentSave size={32} />
 ```
+
+---
+
+## Icon Re-generation
+
+To re-generate components from the source SVG files in `raw-icons/icons/`:
+
+```bash
+pnpm run generate
+```
+
+---
+
+## License
+
+- Component library: [LGPL-3.0-or-later](https://www.gnu.org/licenses/lgpl-3.0.html) (matching KDE Breeze Icon Theme).
+- Icons: Copyright (C) KDE Community / Breeze Icon Contributors.

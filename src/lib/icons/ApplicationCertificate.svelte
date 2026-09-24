@@ -39,29 +39,11 @@
 			{...restProps}
 		>
 			<defs id="defs3871"/>
-  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="21.123867" inkscape:cx="3.5682124" inkscape:cy="13.425096" inkscape:document-units="px" inkscape:current-layer="layer1-0" showgrid="true" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1366" inkscape:window-height="699" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:showpageshadow="false" inkscape:snap-bbox="true" inkscape:object-nodes="true" inkscape:snap-global="false">
-    <inkscape:grid type="xygrid" id="grid4132"/>
-    <sodipodi:guide position="2,20.000017" orientation="18,0" id="guide4138"/>
-    <sodipodi:guide position="2,2.0000174" orientation="0,18" id="guide4140"/>
-    <sodipodi:guide position="20,2.0000174" orientation="-18,0" id="guide4142"/>
-    <sodipodi:guide position="20,20.000017" orientation="0,-18" id="guide4144"/>
-    <sodipodi:guide position="3,19.000017" orientation="16,0" id="guide4146"/>
-    <sodipodi:guide position="3,3.0000174" orientation="0,16" id="guide4148"/>
-    <sodipodi:guide position="19,3.0000174" orientation="-16,0" id="guide4150"/>
-    <sodipodi:guide position="24.562501,19.000001" orientation="0,-16" id="guide4152"/>
-  </sodipodi:namedview>
-  <metadata id="metadata3874">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-326,-534.3622)">
-    <g transform="matrix(1.3342187,0,0,1.3359009,326.3388,-849.7864)" id="layer1-0" inkscape:label="Capa 1">
-      <path inkscape:connector-curvature="0" style="fill:#cf000f;fill-opacity:1;stroke:none" d="m 7.9882092,1038.378 c -1.9907212,0 -3.5933591,1.6006 -3.5933591,3.5888 0,1.1597 0.5478871,2.1844 1.3974174,2.8397 l 0,5.5343 2.1959417,-1.5951 2.1959408,1.5951 0,-5.5343 c 0.849532,-0.6553 1.397419,-1.68 1.397419,-2.8397 0,-1.9882 -1.6026389,-3.5888 -3.5933598,-3.5888 z" id="rect4222"/>
+  
+  
+  <g id="layer1" transform="translate(-326,-534.3622)">
+    <g transform="matrix(1.3342187,0,0,1.3359009,326.3388,-849.7864)" id="layer1-0">
+      <path style="fill:#cf000f;fill-opacity:1;stroke:none" d="m 7.9882092,1038.378 c -1.9907212,0 -3.5933591,1.6006 -3.5933591,3.5888 0,1.1597 0.5478871,2.1844 1.3974174,2.8397 l 0,5.5343 2.1959417,-1.5951 2.1959408,1.5951 0,-5.5343 c 0.849532,-0.6553 1.397419,-1.68 1.397419,-2.8397 0,-1.9882 -1.6026389,-3.5888 -3.5933598,-3.5888 z" id="rect4222"/>
     </g>
   </g>
 		</svg>
@@ -76,8 +58,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg37" showgrid="false" id="namedview39" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)" gradientUnits="userSpaceOnUse" x2="0" y2="3" y1="61" id="a">
             <stop offset="0" stop-color="#d91e18" id="stop4" />
             <stop offset="1" stop-color="#cf000f" id="stop2" />
@@ -115,8 +96,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg35" showgrid="false" id="namedview37" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="61" y1="3" id="a">
             <stop id="stop2" stop-color="#cf000f" />
             <stop id="stop4" stop-color="#d91e18" offset="1" />

@@ -42,42 +42,9 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     id="namedview2819"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="true"
-     inkscape:zoom="46.681818"
-     inkscape:cx="10.989289"
-     inkscape:cy="11.010711"
-     inkscape:window-width="2560"
-     inkscape:window-height="1367"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2938" />
-  </sodipodi:namedview>
-  <defs
+			<defs
      id="defs3871" />
-  <metadata
-     id="metadata3874">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
      id="layer1"
      transform="matrix(1 0 0 1 -326 -534.3622)">
@@ -94,8 +61,7 @@
     <path
        style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#555555;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        d="m 327,548.3622 v 3 h 3 v -3 z m 4,0 v 3 h 3 v -3 z m -4,4 v 3 h 3 v -3 z m 4,0 v 3 h 3 v -3 z"
-       id="path4"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
+       id="path4" />
   </g>
 		</svg>
 	{:else if numericSize <= 48}

@@ -42,47 +42,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata49">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="717"
-     id="namedview47"
-     showgrid="true"
-     inkscape:zoom="6.9532167"
-     inkscape:cx="17.487428"
-     inkscape:cy="24.96041"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:object-nodes="true"
-     inkscape:snap-bbox="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4177" />
-  </sodipodi:namedview>
-  <defs
+			<defs
      id="defs4">
     <linearGradient
        id="linearGradient4252">
@@ -112,7 +72,6 @@
          id="stop15" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4252"
        id="linearGradient4237"
        x1="4"
@@ -124,15 +83,11 @@
   <path
      style="fill:url(#c-5);stroke-width:2;stroke-linejoin:bevel"
      d="m 4,4 0,0 0,40 0,0 40,0 0,0 0,-40 0,0 z"
-     id="path19"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
+     id="path19" />
   <path
      style="opacity:0.2;fill:url(#linearGradient4237);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 8,40 4,4 32,0 0,-32 -4,-4 0,14 -14,0 0,-10 -4,-4 0,14 -14,0 4,4 10,0 0,14 z"
-     id="path4228"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccc" />
+     id="path4228" />
   <rect
      style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4179"
@@ -143,26 +98,18 @@
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 8,26 0,14 14,0 0,-14 z m 2,2 10,0 0,10 -10,0 z"
-     id="rect4181"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccc" />
+     id="rect4181" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 26,26 0,14 14,0 0,-14 z m 2,2 10,0 0,10 -10,0 z"
-     id="rect4181-3"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccc" />
+     id="rect4181-3" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 8,8 0,14 14,0 0,-14 z m 2,2 10,0 0,10 -10,0 z"
-     id="rect4181-6"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccc" />
+     id="rect4181-6" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 26,8 0,14 14,0 0,-14 z m 2,2 10,0 0,10 -10,0 z"
-     id="rect4181-3-7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccc" />
+     id="rect4181-3-7" />
 		</svg>
 	{/if}

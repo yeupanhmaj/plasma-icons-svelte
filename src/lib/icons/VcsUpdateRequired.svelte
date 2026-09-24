@@ -25,38 +25,9 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
+			<defs
      id="defs11" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1860"
-     inkscape:window-height="1049"
-     id="namedview9"
-     showgrid="false"
-     inkscape:window-x="60"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7"
-     showborder="false" />
+  
   
   <circle
      style="fill:currentColor;fill-opacity:1;stroke:none"
@@ -68,9 +39,7 @@
   <path
      d="M 4,0 V 1 C 2.3431458,1 1,2.3431458 1,4 1,5.6568542 2.3431458,7 4,7 5.6568542,7 7,5.6568542 7,4 H 5 C 5,4.5522847 4.5522847,5 4,5 3.4477153,5 3,4.5522847 3,4 3,3.4477153 3.4477153,3 4,3 V 4 L 7,2 Z"
      id="path5"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff"
-     sodipodi:nodetypes="ccssccsscccc" />
+     style="fill:#ffffff" />
 		</svg>
 	{:else if numericSize <= 19}
 		<svg

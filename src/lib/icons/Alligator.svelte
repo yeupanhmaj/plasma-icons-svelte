@@ -42,15 +42,7 @@
    <stop stop-color="#16a085" stop-opacity="0" offset="1"/>
   </radialGradient>
  </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+ 
  <g stroke-width=".26458275">
   <rect x="1.0583797" y="1.0583336" width="10.583287" height="10.583333" rx="1.5874931" ry="1.5875" fill="#d35400" style="paint-order:stroke fill markers"/>
   <rect x="1.0583797" y="1.0583335" width="10.583287" height="10.318749" rx="1.5874931" ry="1.5875" fill="url(#linearGradient3038)" style="paint-order:stroke fill markers"/>

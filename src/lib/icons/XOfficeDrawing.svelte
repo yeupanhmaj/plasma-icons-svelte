@@ -53,38 +53,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata43">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     id="namedview41"
-     showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="43.795541"
-     inkscape:cy="7.2189987"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
+			<defs
      id="defs4">
     <linearGradient
        id="a"
@@ -184,7 +153,6 @@
      transform="translate(-384.57,-515.8)" />
   <path
      style="color:#000000;opacity:0.2;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-     inkscape:connector-curvature="0"
      id="path25"
      d="m 7,2 0,1.998 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,2 -1.998,0 0,1 1.998,0 0,1 1,0 0,-1 2,0 0,1 1,0 0,-1 2,0 0,1 1,0 0,-1 2,0 0,1 1,0 0,-1 2,0 0,1 1,0 0,-1 2,0 0,1 1,0 0,-1 2,0 0,1 1,0 0,-1 1,0 0,-1 -1,0 0,-2 1,0 0,-1 -1,0 0,-2 1,0 0,-1 -1,0 0,-2 1,0 0,-1 -1,0 0,-2 1,0 0,-1 -1,0 0,-2 1,0 0,-1 -1,0 0,-2 1,0 0,-1 -1,0 0,-2 -1,-1 -2,0 0,-2 -1,-1 -2,0 0,-1.998 -1,0 0,1.998 -2,0 0,-1.998 -1,0 0,1.998 -2,0 0,-1.998 -1,0 0,1.998 -2,0 L 11,2 10,2 10,3.998 8,3.998 8,2 Z m 1,2.998 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -12,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -15,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -15,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -15,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -15,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -15,3 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m -15,3 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z m 3,0 2,0 0,2 -2,0 0,-1 z" />
   <rect
@@ -206,12 +174,10 @@
   <path
      d="m 20,9 7,7 0,-7 z"
      id="path33"
-     style="opacity:0.2;fill:url(#b);fill-rule:evenodd"
-     inkscape:connector-curvature="0" />
+     style="opacity:0.2;fill:url(#b);fill-rule:evenodd" />
   <path
      d="M 27,9 20,2 20,9 Z"
      id="path35"
-     inkscape:connector-curvature="0"
      style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;fill-opacity:1;opacity:0.5" />
   <use
      height="100%"
@@ -224,7 +190,6 @@
      transform="translate(-384.57,-515.8)" />
   <path
      style="color:#4d4d4d;opacity:0.9;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-     inkscape:connector-curvature="0"
      id="path39"
      d="m 11,10 0,3 1,0 0,1.65 a 1.500006,1.500006 0 0 0 -1,1.41211 1.500006,1.500006 0 0 0 1,1.41211 l 0,1.525 -1,0 0,3 3,0 0,-1.809 a 6.999994,6 0 0 0 5,1.80859 l 0,-1 A 5.999996,5.00001 0 0 1 13.23047,17.36795 1.500006,1.500006 0 0 0 14,16.06131 1.500006,1.500006 0 0 0 13.20117,14.73904 5.999996,5.00001 0 0 1 19,10.99881 l 0,-1 a 6.999994,6 0 0 0 -5,1.80273 l 0,-1.803 z m 1,1 1,0 0,1 -1,0 z m 0,9 1,0 0,1 -1,0 z" />
 		</svg>
@@ -239,42 +204,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata46">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     id="namedview44"
-     showgrid="true"
-     inkscape:zoom="7.375"
-     inkscape:cx="28.463246"
-     inkscape:cy="42.047085"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4364" />
-  </sodipodi:namedview>
-  <defs
+			<defs
      id="defs4">
     <linearGradient
        id="a"
@@ -384,18 +314,15 @@
   <path
      d="M 40,17 54,31 54,17 Z"
      id="path36"
-     style="opacity:0.1;fill:url(#a);fill-rule:evenodd"
-     inkscape:connector-curvature="0" />
+     style="opacity:0.1;fill:url(#a);fill-rule:evenodd" />
   <path
      d="m 24,23 0,3 1,0 0,5.057 a 2.5,2.5 0 0 0 -2,2.44336 2.5,2.5 0 0 0 2,2.44531 l 0,5.05 -1,0 0,3 3,0 0,-3 -1,0 0,-3.529 a 13,10.500004 0 0 0 12,6.5293 13,10.500004 0 0 0 1,-0.041 l 0,-0.996 A 12,9.500009 0 0 1 38,42.99607 12,9.500009 0 0 1 26.38086,35.83201 2.5,2.5 0 0 0 28,33.49606 2.5,2.5 0 0 0 26.38281,31.15817 12,9.500009 0 0 1 38,23.99606 a 12,9.500009 0 0 1 1,0.0391 l 0,-1.01 a 13,10.500004 0 0 0 -1,-0.0332 13,10.500004 0 0 0 -12,6.51172 l 0,-3.512 1,0 0,-3 z m 1,1 1,0 0,1 -1,0 z m 0.5,8 A 1.5,1.5 0 0 1 27,33.5 1.5,1.5 0 0 1 25.5,35 1.5,1.5 0 0 1 24,33.5 1.5,1.5 0 0 1 25.5,32 m -0.5,10 1,0 0,1 -1,0 z"
      id="path38"
-     inkscape:connector-curvature="0"
      style="color:#4d4d4d;opacity:0.9;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
   <path
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 40,3 0,14 14,0 z"
-     id="path4366"
-     inkscape:connector-curvature="0" />
+     id="path4366" />
   <use
      height="100%"
      width="100%"

@@ -33,7 +33,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4293"
        id="linearGradient12103"
        gradientUnits="userSpaceOnUse"
@@ -43,7 +42,6 @@
        x2="441.16071"
        y2="554.2265" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4293">
       <stop
          id="stop7" />
@@ -53,7 +51,6 @@
          id="stop9" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4293"
        id="linearGradient12105"
        gradientUnits="userSpaceOnUse"
@@ -63,44 +60,9 @@
        x2="44"
        y2="48" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="31.367158"
-     inkscape:cy="4.0866976"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     inkscape:window-width="956"
-     inkscape:window-height="1013"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid7814" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7271">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
+  
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-988.36216)">
     <g
@@ -122,7 +84,6 @@
          height="0.99999797"
          width="63.999939" />
       <path
-         inkscape:connector-curvature="0"
          style="opacity:0.2;fill:url(#linearGradient12103);fill-rule:evenodd"
          id="path33-1"
          d="m 798.85718,172.93361 -60,40 3,3 59,0 0,-41 -2,-2 z" />
@@ -148,8 +109,6 @@
          height="40.00005"
          width="60" />
       <path
-         sodipodi:nodetypes="cccccccccccc"
-         inkscape:connector-curvature="0"
          style="opacity:0.2;fill:url(#linearGradient12105);fill-rule:evenodd"
          id="path41-7"
          d="m 769.85718,182.93361 -3,0 -1,1 -2,1 0,8 0,3 12,12 8,8 17,0 0,-5 -27,-27 z" />
@@ -162,7 +121,6 @@
          height="4"
          width="4" />
       <g
-         inkscape:label="Capa 1"
          id="layer1-8"
          transform="translate(336.14289,-346.85713)">
         <circle
@@ -177,7 +135,6 @@
            cx="421.71429"
            id="circle16" />
         <path
-           inkscape:connector-curvature="0"
            style="opacity:1;fill:#da4453;fill-opacity:1"
            d="m 432.71429,528.79074 a 7.9999995,8.0000081 0 0 0 -8,8 7.9999995,8.0000081 0 0 0 8,8 7.9999995,8.0000081 0 0 0 8,-8 7.9999995,8.0000081 0 0 0 -8,-8 z m -3.29297,4 3.29297,3.29297 3.29297,-3.29297 0.70703,0.70703 -3.29297,3.29297 3.29297,3.29297 -0.70703,0.70703 -3.29297,-3.29297 -3.29297,3.29297 -0.70703,-0.70703 3.29297,-3.29297 -3.29297,-3.29297 0.70703,-0.70703 z"
            id="path4144" />

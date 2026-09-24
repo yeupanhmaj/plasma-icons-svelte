@@ -40,8 +40,8 @@
 		>
 			<defs id="defs3871"/>
  <metadata id="metadata3874"/>
- <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
-  <path inkscape:label="Capa 1" inkscape:connector-curvature="0" style="fill:#fdd285" id="rect4108" d="M 11,3 C 10.027093,6.4050342 7.6455537,9.3322765 6.5957031,11.675781 6.2282987,12.372552 6,13.15458 6,14 c 0,2.770002 2.2299982,5 5,5 2.770002,0 5,-2.229998 5,-5 0,-0.84542 -0.228299,-1.627448 -0.595703,-2.324219 C 14.354447,9.3322765 11.972897,6.4050342 11,3 Z m 2.283203,7.716797 C 14.3209,11.438005 15,12.635082 15,14 15,16.216002 13.216002,18 11,18 9.6350429,18 8.4379979,17.320951 7.7167969,16.283203 8.363845,16.732907 9.148916,17 10,17 c 2.216002,0 4,-1.783998 4,-4 0,-0.851084 -0.267093,-1.636155 -0.716797,-2.283203 z" transform="matrix(1 0 0 1 326 534.3622)"/>
+ <g id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
+  <path style="fill:#fdd285" id="rect4108" d="M 11,3 C 10.027093,6.4050342 7.6455537,9.3322765 6.5957031,11.675781 6.2282987,12.372552 6,13.15458 6,14 c 0,2.770002 2.2299982,5 5,5 2.770002,0 5,-2.229998 5,-5 0,-0.84542 -0.228299,-1.627448 -0.595703,-2.324219 C 14.354447,9.3322765 11.972897,6.4050342 11,3 Z m 2.283203,7.716797 C 14.3209,11.438005 15,12.635082 15,14 15,16.216002 13.216002,18 11,18 9.6350429,18 8.4379979,17.320951 7.7167969,16.283203 8.363845,16.732907 9.148916,17 10,17 c 2.216002,0 4,-1.783998 4,-4 0,-0.851084 -0.267093,-1.636155 -0.716797,-2.283203 z" transform="matrix(1 0 0 1 326 534.3622)"/>
  </g>
 		</svg>
 	{:else if numericSize <= 48}
@@ -91,44 +91,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata39">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     id="namedview37"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:zoom="8"
-     inkscape:cx="14.009296"
-     inkscape:cy="19.617126"
-     inkscape:current-layer="svg2"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4226" />
-  </sodipodi:namedview>
-  <defs
+			<defs
      id="defs4">
     <linearGradient
        id="a"
@@ -278,19 +241,15 @@
   <path
      id="path4196"
      d="M 54,16 40,2 40,16 Z"
-     inkscape:connector-curvature="0"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd" />
   <path
      style="opacity:0.1;fill:url(#a-3);fill-rule:evenodd"
      id="path4198"
-     d="M 40,16 54,30 54,16 Z"
-     inkscape:connector-curvature="0" />
+     d="M 40,16 54,30 54,16 Z" />
   <path
-     inkscape:connector-curvature="0"
      d="m 32,21 c -1.876,7 -7,11.134 -7,15 0,3.866 3.134,7 7,7 3.866,0 7,-3.134 7,-7 0,-3.866 -5.124,-8 -7,-15 m 4.8125,11.427734 C 37.581303,33.460266 37.997636,34.712687 38,36 c 0,3.313708 -2.686292,6 -6,6 -1.284867,-0.0025 -2.535,-0.417376 -3.566406,-1.183594 C 28.947146,40.936416 29.472616,40.998005 30,41 c 3.865993,0 7,-3.134007 7,-7 -0.0028,-0.529493 -0.06574,-1.056956 -0.1875,-1.572266"
      id="path35"
-     style="color:#4d4d4d;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     sodipodi:nodetypes="cssscccccccc" />
+     style="color:#4d4d4d;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   <use
      height="100%"
      width="100%"

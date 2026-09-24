@@ -39,28 +39,10 @@
 			{...restProps}
 		>
 			<defs id="defs3871"/>
-  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="12.126928" inkscape:cx="4.7209486" inkscape:cy="13.425096" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1366" inkscape:window-height="699" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:showpageshadow="false" inkscape:snap-bbox="true" inkscape:object-nodes="true" inkscape:snap-global="false">
-    <inkscape:grid type="xygrid" id="grid4132"/>
-    <sodipodi:guide position="2,20.000017" orientation="18,0" id="guide4138"/>
-    <sodipodi:guide position="2,2.0000174" orientation="0,18" id="guide4140"/>
-    <sodipodi:guide position="20,2.0000174" orientation="-18,0" id="guide4142"/>
-    <sodipodi:guide position="20,20.000017" orientation="0,-18" id="guide4144"/>
-    <sodipodi:guide position="3,19.000017" orientation="16,0" id="guide4146"/>
-    <sodipodi:guide position="3,3.0000174" orientation="0,16" id="guide4148"/>
-    <sodipodi:guide position="19,3.0000174" orientation="-16,0" id="guide4150"/>
-    <sodipodi:guide position="24.562501,19.000001" orientation="0,-16" id="guide4152"/>
-  </sodipodi:namedview>
-  <metadata id="metadata3874">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-326,-534.3622)">
-    <path inkscape:connector-curvature="0" id="path4206" d="m 342.62695,540.65876 -3.95483,0.65091 c 0.0571,2.45958 -2.56525,4.16886 -5.02525,-0.46502 l -4.6529,0.65147 c 0.72403,2.50556 3.32446,2.81416 5.05854,4.13185 -0.86713,1.23606 -4.80606,0.49141 -4.70063,4.34881 l 3.95483,-0.65146 c -0.0571,-2.45958 4.50688,-4.53066 6.96688,0.10321 l 4.65291,-0.65146 c -0.72576,-2.5115 -3.48871,-2.75074 -5.2228,-4.07636 0.85937,-1.79537 3.70265,-0.18083 2.92325,-4.04195 z" style="fill:#cf000f;fill-opacity:1;stroke:none"/>
+  
+  
+  <g id="layer1" transform="translate(-326,-534.3622)">
+    <path id="path4206" d="m 342.62695,540.65876 -3.95483,0.65091 c 0.0571,2.45958 -2.56525,4.16886 -5.02525,-0.46502 l -4.6529,0.65147 c 0.72403,2.50556 3.32446,2.81416 5.05854,4.13185 -0.86713,1.23606 -4.80606,0.49141 -4.70063,4.34881 l 3.95483,-0.65146 c -0.0571,-2.45958 4.50688,-4.53066 6.96688,0.10321 l 4.65291,-0.65146 c -0.72576,-2.5115 -3.48871,-2.75074 -5.2228,-4.07636 0.85937,-1.79537 3.70265,-0.18083 2.92325,-4.04195 z" style="fill:#cf000f;fill-opacity:1;stroke:none"/>
   </g>
 		</svg>
 	{:else if numericSize <= 48}
@@ -74,8 +56,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg37" showgrid="false" id="namedview39" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)" gradientUnits="userSpaceOnUse" x2="0" y2="3" y1="61" id="a">
             <stop offset="0" stop-color="#d91e18" id="stop4" />
             <stop offset="1" stop-color="#cf000f" id="stop2" />
@@ -113,8 +94,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg35" showgrid="false" id="namedview37" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="61" y1="3" id="a">
             <stop id="stop2" stop-color="#cf000f" />
             <stop id="stop4" stop-color="#d91e18" offset="1" />

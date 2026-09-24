@@ -40,7 +40,7 @@
 		>
 			<defs id="defs3871"/>
  <metadata id="metadata3874"/>
- <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
+ <g id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
   <rect width="16" x="329" y="537.36218" height="1" style="fill:#6c7a89;stroke-width:6" id="rect5056"/>
   <rect width="16" x="329" y="552.36218" height="0.999983" style="fill:#6c7a89;stroke-width:6" id="rect5058"/>
   <rect width="11" x="332" y="540.36218" height="1" style="fill:#6c7a89;stroke-width:6" id="rect5060"/>

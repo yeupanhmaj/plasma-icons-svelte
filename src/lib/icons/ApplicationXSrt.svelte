@@ -40,7 +40,7 @@
 		>
 			<defs id="defs3871"/>
  <metadata id="metadata3874"/>
- <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1-43" transform="matrix(1 0 0 1 -326 -534.3622)">
+ <g id="layer1-43" transform="matrix(1 0 0 1 -326 -534.3622)">
   <path style="fill:#6c7a89" id="rect4156-9" d="M 8 8 L 8 15 L 12 19 L 12 15 L 19 15 L 19 8 L 8 8 z M 9 9 L 18 9 L 18 14 L 14 14 L 9 14 L 9 9 z " transform="matrix(1 0 0 1 326 534.3622)"/>
   <path style="fill:#6c7a89" id="rect5636" d="M 3 3 L 3 14 L 4 14 L 7 14 L 7 13 L 7 11 L 7 10 L 7 7 L 11 7 L 12 7 L 14 7 L 15 7 L 15 4 L 15 3 L 4 3 L 3 3 z M 4 4 L 6 4 L 6 6 L 4 6 L 4 4 z M 7 4 L 11 4 L 11 6 L 7 6 L 7 4 z M 12 4 L 14 4 L 14 6 L 12 6 L 12 4 z M 4 7 L 6 7 L 6 10 L 4 10 L 4 7 z M 4 11 L 6 11 L 6 13 L 4 13 L 4 11 z " transform="matrix(1 0 0 1 326 534.3622)"/>
  </g>
@@ -56,8 +56,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg37" showgrid="false" id="namedview39" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)" gradientUnits="userSpaceOnUse" x2="0" y2="3" y1="61" id="a">
             <stop offset="0" stop-color="#768492" id="stop4" />
             <stop offset="1" stop-color="#5e6b78" id="stop2" />
@@ -95,8 +94,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview inkscape:current-layer="svg35" showgrid="false" id="namedview37" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
-    <defs id="defs17">
+			<defs id="defs17">
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="61" y1="3" id="a">
             <stop id="stop2" stop-color="#5e6b78" />
             <stop id="stop4" stop-color="#768492" offset="1" />

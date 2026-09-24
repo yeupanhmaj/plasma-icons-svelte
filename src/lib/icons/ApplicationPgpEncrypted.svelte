@@ -176,36 +176,9 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="708"
-     id="namedview25"
-     showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-7.7403266"
-     inkscape:cy="24.902417"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4150" />
-  </sodipodi:namedview>
-  <defs
+			<defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient6251"
        id="linearGradient5282"
        gradientUnits="userSpaceOnUse"
@@ -215,8 +188,7 @@
        x2="58"
        y2="336.36221" />
     <linearGradient
-       id="linearGradient6251"
-       inkscape:collect="always">
+       id="linearGradient6251">
       <stop
          id="stop6253"
          offset="0"
@@ -228,8 +200,7 @@
     </linearGradient>
     
     <linearGradient
-       id="linearGradient9654"
-       inkscape:collect="always">
+       id="linearGradient9654">
       <stop
          id="stop9656"
          offset="0"
@@ -240,7 +211,6 @@
          style="stop-color:#000000;stop-opacity:0" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient9654"
        id="linearGradient17246"
        gradientUnits="userSpaceOnUse"
@@ -250,25 +220,11 @@
        x2="54"
        y2="31" />
   </defs>
-  <metadata
-     id="metadata84">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <path
-     inkscape:connector-curvature="0"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="path5266"
-     d="m 10,61 0,-57.99999 30,0 14,14 L 54,47 54,61 40,61 10,61 Z"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     d="m 10,61 0,-57.99999 30,0 14,14 L 54,47 54,61 40,61 10,61 Z" />
   <g
      id="g16916"
      style="opacity:0.7">
@@ -2343,9 +2299,7 @@
      height="1"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.35;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="rect5270"
-     transform="scale(1,-1)"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     transform="scale(1,-1)" />
   <rect
      width="30"
      x="10"
@@ -2353,13 +2307,8 @@
      height="1"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.4;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="rect5268"
-     transform="scale(1,-1)"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     transform="scale(1,-1)" />
   <path
-     inkscape:export-ydpi="96"
-     inkscape:export-xdpi="96"
-     inkscape:connector-curvature="0"
      style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
      id="path5622"
      d="M 54,17 40,2.99999 40,17 Z" />
@@ -2367,21 +2316,14 @@
      id="path4230"
      class="ColorScheme-Text"
      d="m 32,25 c -2.216,0 -4,1.784 -4,4 l 0,4 -2,0 c 0,2.666667 0,5.333333 0,8 4,0 8,0 12,0 l 0,-8 c -0.666667,0 -1.333333,0 -2,0 l 0,-4 c 0,-2.216 -1.784,-4 -4,-4 m 0,1 c 1.662,0 3,1.561 3,3.5 l 0,3.5 -6,0 0,-3.5 C 29,27.561 30.338,26 32,26"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     inkscape:connector-curvature="0" />
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   <path
-     inkscape:connector-curvature="0"
      style="opacity:0.5;fill:url(#linearGradient17246);fill-rule:evenodd"
      id="path17244"
-     d="M 40,17 54,30.99998 54,17 Z"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     d="M 40,17 54,30.99998 54,17 Z" />
   <path
      d="m 10,61 0,-57.99999 30,0 14,14 L 54,47 54,61 40,61 10,61 Z"
      id="path5278"
-     style="fill:url(#linearGradient5282);fill-opacity:1"
-     inkscape:connector-curvature="0"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     style="fill:url(#linearGradient5282);fill-opacity:1" />
 		</svg>
 	{/if}

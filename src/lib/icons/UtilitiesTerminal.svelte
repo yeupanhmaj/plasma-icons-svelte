@@ -78,40 +78,9 @@
          id="stop9" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="14.902674"
-     inkscape:cy="10.033905"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     inkscape:snap-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4818" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4235">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
+  
   <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
@@ -124,15 +93,13 @@
        width="16"
        ry="1.0000174" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#b);stroke:none;stroke-width:0.07948237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path27"
        d="m 6.573696,1040.4054 -0.5619403,0.5619 3.4121779,3.4121 -3.4121779,3.4123 0.5619403,0.5619 3.974119,-3.9742 -0.5619411,-0.5619 z" />
     <path
        d="m 6.5760804,1048.3536 3.8095896,3.8095 5.563766,0 0,-2.3844 -5.399238,-5.3993 z"
        id="path31"
-       style="opacity:0.4;fill:url(#c);fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.4;fill:url(#c);fill-rule:evenodd" />
     <path
        style="fill:#ffffff;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 1 0 C 0.446 0 0 0.44599036 0 1 L 0 2 C 0 1.4459904 0.446 1 1 1 L 15 1 C 15.554 1 16 1.4459904 16 2 L 16 1 C 16 0.44599036 15.554 0 15 0 L 1 0 z "
@@ -141,8 +108,7 @@
     <path
        id="path4862"
        d="m 1,1052.3622 c -0.554,0 -1,-0.446 -1,-1 l 0,-1 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,1 c 0,0.554 -0.446,1 -1,1 l -14,0 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
-       inkscape:connector-curvature="0" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
   </g>
 		</svg>
 	{:else if numericSize <= 27}
@@ -194,7 +160,6 @@
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.44993251,0,0,0.44993251,0.20026998,1030.5652)"
-       inkscape:collect="always"
        xlink:href="#linearGradient4175"
        id="linearGradient4181"
        x1="28.407476"
@@ -203,7 +168,6 @@
        y2="15.301996"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4175">
       <stop
          style="stop-color:#33383a;stop-opacity:1;"
@@ -231,44 +195,9 @@
          id="stop9" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="24.824579"
-     inkscape:cy="9.5097589"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-global="false"
-     showborder="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid7707" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7124">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
+  
   <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
     <rect
@@ -281,15 +210,13 @@
        width="17.997301"
        ry="0.99733186" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#b);stroke:url(#linearGradient4181);stroke-width:0.0899865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path27"
        d="m 9.3851922,1036.8642 -0.6362045,0.6362 3.8631203,3.8631 -3.8631203,3.8632 0.6362045,0.6362 4.4993248,-4.4994 -0.636204,-0.6362 z" />
     <path
        d="m 9.3878918,1045.8629 4.3130532,4.313 6.299055,0 0,-2.6996 -6.112783,-6.1128 z"
        id="path31"
-       style="opacity:0.4;fill:url(#c);fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.4;fill:url(#c);fill-rule:evenodd" />
     <path
        style="fill:#ffffff;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 2.9980469 2.0019531 C 2.44554 2.0019531 2 2.4474782 2 3 L 2 4 C 2 3.4474782 2.44554 3.0019531 2.9980469 3.0019531 L 19 3.0019531 C 19.552507 3.0019531 19.998047 3.4474782 19.998047 4 L 19.998047 3 C 19.998047 2.4474782 19.552507 2.0019531 19 2.0019531 L 2.9980469 2.0019531 z "
@@ -298,8 +225,7 @@
     <path
        id="path7790"
        d="M 2.9980469,1050.3622 C 2.44554,1050.3622 2,1049.9167 2,1049.3642 l 0,-1 c 0,0.5525 0.44554,0.998 0.9980469,0.998 l 16.0019531,0 c 0.552507,0 0.998047,-0.4455 0.998047,-0.998 l 0,1 c 0,0.5525 -0.44554,0.998 -0.998047,0.998 l -16.0019531,0 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
-       inkscape:connector-curvature="0" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
   </g>
 		</svg>
 	{:else if numericSize <= 40}
@@ -351,7 +277,6 @@
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.6999997,0,0,0.6999997,-0.8000067,1019.5622)"
-       inkscape:collect="always"
        xlink:href="#linearGradient4175"
        id="linearGradient4181"
        x1="28.407476"
@@ -360,7 +285,6 @@
        y2="15.301996"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4175">
       <stop
          style="stop-color:#33383a;stop-opacity:1;"
@@ -388,41 +312,9 @@
          id="stop9" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="25.244003"
-     inkscape:cy="18.675192"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid6877" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata6334">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
+  
   <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
     <rect
@@ -435,15 +327,13 @@
        width="27.999989"
        ry="1.0000174" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#b);stroke:url(#linearGradient4181);stroke-width:0.13999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path27"
        d="m 13.489787,1029.3622 -0.9898,0.9898 6.010198,6.0102 -6.010198,6.0102 0.9898,0.9898 6.999997,-7 -0.9898,-0.9898 z" />
     <path
        d="m 13.493987,1043.3622 6.710197,6.7102 9.799996,0 0,-4.2 -9.510196,-9.5102 z"
        id="path31"
-       style="opacity:0.4;fill:url(#c);fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.4;fill:url(#c);fill-rule:evenodd" />
     <path
        style="fill:#ffffff;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 3 2 C 2.4460074 2 2 2.4459904 2 3 L 2 4 C 2 3.4459904 2.4460074 3 3 3 L 29 3 C 29.553993 3 30 3.4459904 30 4 L 30 3 C 30 2.4459904 29.553993 2 29 2 L 3 2 z "
@@ -452,8 +342,7 @@
     <path
        id="path7077"
        d="m 3,1050.3622 c -0.553993,0 -1,-0.446 -1,-1 l 0,-1 c 0,0.554 0.446007,1 1,1 l 26,0 c 0.553993,0 1,-0.446 1,-1 l 0,1 c 0,0.554 -0.446007,1 -1,1 l -26,0 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
-       inkscape:connector-curvature="0" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
   </g>
 		</svg>
 	{:else if numericSize <= 56}
@@ -600,41 +489,9 @@
          id="stop9-2" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="33.71152"
-     inkscape:cy="38.934322"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid6138" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4883">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
+  
   <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-988.3622)">
     <rect
@@ -647,15 +504,13 @@
        width="51.992203"
        ry="0.9922049" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:url(#b-5);stroke:none;stroke-width:0.25996101;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path27"
        d="m 27.335,1007.368 -1.837925,1.838 11.160126,11.1601 -11.160126,11.1601 1.837925,1.8379 12.99805,-12.998 -1.837924,-1.8379 z" />
     <path
        d="m 27.342799,1033.3641 12.459931,12.46 18.19727,0 0,-7.7988 -17.659151,-17.6592 z"
        id="path31"
-       style="opacity:0.4;fill:url(#c-7);fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.4;fill:url(#c-7);fill-rule:evenodd" />
     <path
        style="fill:#ffffff;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 6.9921875 6.0078125 C 6.4425008 6.0078125 6 6.4503185 6 7 L 6 8 C 6 7.4503185 6.4425008 7.0078125 6.9921875 7.0078125 L 57 7.0078125 C 57.549687 7.0078125 57.992188 7.4503185 57.992188 8 L 57.992188 7 C 57.992188 6.4503185 57.549687 6.0078125 57 6.0078125 L 6.9921875 6.0078125 z "
@@ -664,8 +519,7 @@
     <path
        id="path6284"
        d="M 6.992188,1046.3622 C 6.442501,1046.3622 6,1045.9197 6,1045.37 l 0,-1 c 0,0.5497 0.442501,0.9922 0.992188,0.9922 l 50.007812,0 c 0.549687,0 0.992188,-0.4425 0.992188,-0.9922 l 0,1 c 0,0.5497 -0.442501,0.9922 -0.992188,0.9922 l -50.007812,0 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
-       inkscape:connector-curvature="0" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
   </g>
 		</svg>
 	{/if}

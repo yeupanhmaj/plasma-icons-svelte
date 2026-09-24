@@ -46,7 +46,6 @@
          id="stop10-6" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#c"
        id="linearGradient1287"
        gradientUnits="userSpaceOnUse"
@@ -56,29 +55,7 @@
        y2="18.837368"
        gradientTransform="translate(-0.99999995,-6)" />
   </defs>
-  <sodipodi:namedview
-     id="namedview37"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="true"
-     inkscape:snap-global="true"
-     inkscape:zoom="39.681819"
-     inkscape:cx="10.596792"
-     inkscape:cy="11.264605"
-     inkscape:window-width="2552"
-     inkscape:window-height="1385"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg35">
-    <inkscape:grid
-       type="xygrid"
-       id="grid222" />
-  </sodipodi:namedview>
+  
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -157,13 +134,11 @@
   <path
      id="path25"
      style="opacity:0.3;fill:url(#a)"
-     d="m 16,14 -1,2 2,2 h 3 z"
-     sodipodi:nodetypes="ccccc" />
+     d="m 16,14 -1,2 2,2 h 3 z" />
   <path
      id="path25-7"
      style="opacity:0.3;fill:url(#linearGradient1287)"
-     d="M 15,8 14,10 20,16 v -3 z"
-     sodipodi:nodetypes="ccccc" />
+     d="M 15,8 14,10 20,16 v -3 z" />
   <path
      style="fill:#4a525a"
      d="m 15,8 -1,2 h 2 z m 0,3.5 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.28 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 z M 14,14 15,16 16,14 Z"

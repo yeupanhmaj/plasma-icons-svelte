@@ -20,25 +20,7 @@
 	style="color: {color}; {style}"
 	{...restProps}
 >
-	<sodipodi:namedview
-     id="namedview41"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="5.2604167"
-     inkscape:cx="10.075248"
-     inkscape:cy="27.944554"
-     inkscape:window-width="1914"
-     inkscape:window-height="1047"
-     inkscape:window-x="3"
-     inkscape:window-y="3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
+	<defs
      id="defs4">
     <linearGradient
        id="linearGradient4298">

@@ -149,18 +149,7 @@
        id="linearGradient855"
        xlink:href="#linearGradient4191" />
   </defs>
-  <metadata
-     id="metadata5458">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
      transform="translate(-376.57144,-523.79797)"
      id="layer1">

@@ -1,6 +1,8 @@
 {
 	"name": "plasma-icons-svelte",
 	"version": "0.0.1",
+	"description": "KDE Breeze icon library as native, tree-shakeable Svelte 5 components",
+	"license": "LGPL-3.0-or-later",
 	"scripts": {
 		"dev": "vite dev",
 		"generate": "node scripts/generate.mjs",
@@ -35,6 +37,9 @@
 		},
 		"./plasma-icons.css": "./dist/plasma-icons.css"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"peerDependencies": {
 		"svelte": "^5.0.0"
 	},
@@ -51,6 +56,7 @@
 	},
 	"keywords": [
 		"svelte",
+		"svelte5",
 		"plasma",
 		"kde",
 		"breeze",

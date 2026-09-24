@@ -20,26 +20,7 @@
 	style="color: {color}; {style}"
 	{...restProps}
 >
-	<sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.4074536"
-     inkscape:cx="-8.3699478"
-     inkscape:cy="33.61479"
-     inkscape:window-width="1707"
-     inkscape:window-height="930"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
-  
-  <g
+	<g
      transform="matrix(1.6249939,0,0,1.6249939,-687.15811,-856.28173)"
      id="g1"
      style="stroke-width:0.615387">

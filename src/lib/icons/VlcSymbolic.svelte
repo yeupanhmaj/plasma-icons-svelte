@@ -22,25 +22,7 @@
 >
 	<defs
      id="defs13" />
-  <sodipodi:namedview
-     id="namedview11"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="35.136364"
-     inkscape:cx="9.4773609"
-     inkscape:cy="9.0504528"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg9" />
+  
   
   <g
      id="vlc"
@@ -57,19 +39,16 @@
        style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 9.1191406,1033.3613 -4.1015625,14.8672 0.9648438,0.2656 3.8984375,-14.1328 h 2.2382816 l 3.898437,14.1328 0.964844,-0.2656 -4.101563,-14.8672 z"
        id="path4273"
-       inkscape:connector-curvature="0"
        class="ColorScheme-Text" />
     <path
        style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 9,1036.3621 h 4 l 1,3 H 8 Z"
        id="path4275"
-       inkscape:connector-curvature="0"
        class="ColorScheme-Text" />
     <path
        style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 7.5,1042.3621 h 7 l 1,3 h -9 z"
        id="path4277"
-       inkscape:connector-curvature="0"
        class="ColorScheme-Text" />
   </g>
 </svg>

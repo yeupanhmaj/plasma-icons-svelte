@@ -36,9 +36,7 @@
      x="20.936768"
      y="38.318382"
      id="text11719"
-     sodipodi:linespacing="125%"
      class="ColorScheme-Text"><tspan
-       sodipodi:role="line"
        id="tspan11721"
        x="20.936768"
        y="38.318382"
@@ -58,9 +56,7 @@
      x="67.905029"
      y="75.223167"
      id="text11719-4"
-     sodipodi:linespacing="125%"
      class="ColorScheme-Text"><tspan
-       sodipodi:role="line"
        id="tspan11721-6"
        x="67.905029"
        y="75.223167"

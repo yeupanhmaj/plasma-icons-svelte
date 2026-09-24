@@ -25,25 +25,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     id="namedview36"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="31.5625"
-     inkscape:cx="5.8455446"
-     inkscape:cy="7.9841584"
-     inkscape:window-width="1914"
-     inkscape:window-height="1047"
-     inkscape:window-x="3"
-     inkscape:window-y="3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg34" />
-  <linearGradient
+			<linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
      x1="4"
@@ -138,25 +120,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     id="namedview40"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="15.78125"
-     inkscape:cx="12.356436"
-     inkscape:cy="15.968317"
-     inkscape:window-width="1920"
-     inkscape:window-height="1053"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g24" />
-  <linearGradient
+			<linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
      x2="17"

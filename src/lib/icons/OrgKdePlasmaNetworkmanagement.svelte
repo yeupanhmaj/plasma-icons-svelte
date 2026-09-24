@@ -43,11 +43,9 @@
   <path
      style="opacity:1;fill:#1d99f3;fill-opacity:1;stroke:none"
      d="m 141,80 0,7 -2,0 3,3 3,-3 -2,0 0,-7 -2,0 z"
-     id="rect8909"
-     inkscape:connector-curvature="0" />
+     id="rect8909" />
   <path
      style="opacity:1;fill:#fdbc4b;fill-opacity:1;stroke:none"
      d="m 197,90 0,-7 -2,0 3,-3 3,3 -2,0 0,7 -2,0 z"
-     id="rect8909-6"
-     inkscape:connector-curvature="0" />
+     id="rect8909-6" />
 </svg>

@@ -38,46 +38,13 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="708"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-15.567797"
-     inkscape:cy="19.510932"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
+			<defs
      id="defs3871" />
-  <metadata
-     id="metadata3874">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="matrix(1 0 0 1 -326 -534.3622)">
     <path
-       inkscape:connector-curvature="0"
        style="opacity:1;fill:#0b0b64;fill-opacity:0.74901962;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 331,537.3622 c -0.554,0 -1,0.446 -1,1 l 0,14 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-14 c 0,-0.554 -0.446,-1 -1,-1 l -12,0 z m 0,1 12,0 0,14 -12,0 0,-14 z m 1,2 0,1 10,0 0,-1 -10,0 z m 0,3 0,1 10,0 0,-1 -10,0 z m 0,3 0,1 10,0 0,-1 -10,0 z m 0,3 0,1 10,0 0,-1 -10,0 z"
        id="rect4151" />

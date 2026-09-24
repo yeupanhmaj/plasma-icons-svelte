@@ -23,7 +23,6 @@
 	<defs id="defs3051">
     
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4459"
        id="linearGradient4475"
        x1="60.000046"
@@ -33,7 +32,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.28,0,0,1.2799996,0,-1219.0233)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4459">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -45,7 +43,6 @@
          id="stop4463" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4459"
        id="linearGradient4465"
        x1="47"

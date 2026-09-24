@@ -23,7 +23,6 @@
 	<defs
      id="defs7268">
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4303"
        id="linearGradient12147"
        x1="-0.90000004"
@@ -32,7 +31,6 @@
        y2="1050.9622"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4303">
       <stop
          id="stop3582"
@@ -43,7 +41,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4303"
        id="linearGradient14158"
        gradientUnits="userSpaceOnUse"
@@ -52,44 +49,9 @@
        x2="25.4"
        y2="1050.9622" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="21.64444"
-     inkscape:cy="4.0866976"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     inkscape:window-width="956"
-     inkscape:window-height="1017"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid7814" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7271">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
+  
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-988.36216)">
     <rect
@@ -478,15 +440,13 @@
     <g
        transform="matrix(1.25,0,0,1.25,18.67677,-282.21971)"
        id="layer1-1"
-       inkscape:label="Capa 1"
        style="fill:url(#linearGradient12147);fill-opacity:1">
       <path
          class="ColorScheme-Text"
          id="rect4111"
          transform="translate(0,1030.3622)"
          d="M 19,3 C 17.68077,3.271305 16.541542,4.064283 15.818359,5.1777344 15.568079,5.0654932 15.292985,5 15,5 14.79149,5 14.594956,5.0409358 14.40625,5.0996094 13.268812,4.4058956 11.935191,4 10.5,4 6.3449984,4 3,7.3449984 3,11.5 3,15.655002 6.3449984,19 10.5,19 14.655002,19 18,15.655002 18,11.5 18,10.064809 17.594104,8.7311878 16.900391,7.59375 16.959064,7.4050437 17,7.2085104 17,7 17,6.5519679 16.850519,6.143249 16.603516,5.8105469 17.139054,4.9388103 17.989262,4.2918607 19,4.0292969 L 19,3 Z M 6.3183594,6.5175781 c -0.9476221,1.1289203 -1.5175781,2.585672 -1.5175782,4.1816409 0,3.601001 2.898999,6.5 6.4999998,6.5 1.595445,0 3.050922,-0.570515 4.179688,-1.517578 C 14.28996,17.099389 12.504603,18 10.5,18 6.8989984,18 4,15.101002 4,11.5 4,9.4949666 4.9000837,7.7080867 6.3183594,6.5175781 Z"
-         style="color:#4d4d4d;opacity:1;fill:url(#linearGradient14158);fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         style="color:#4d4d4d;opacity:1;fill:url(#linearGradient14158);fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g12775-1"

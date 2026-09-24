@@ -20,42 +20,7 @@
 	style="color: {color}; {style}"
 	{...restProps}
 >
-	<metadata
-     id="metadata75">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1297"
-     id="namedview73"
-     showgrid="false"
-     inkscape:zoom="7.5402063"
-     inkscape:cx="-18.584842"
-     inkscape:cy="-0.59210219"
-     inkscape:window-x="0"
-     inkscape:window-y="36"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4231" />
-  </sodipodi:namedview>
-  <defs
+	<defs
      id="defs4">
     <linearGradient
        id="a"
@@ -72,7 +37,6 @@
          id="stop9" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#a"
        id="linearGradient4265"
        x1="26"
@@ -82,7 +46,6 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     inkscape:connector-curvature="0"
      d="M 11.014243,8.1546145 C 4.8134807,14.893117 6.3162577,27.450886 14.369,36.201964 22.421743,44.953054 33.975496,46.584087 40.176271,39.845585 46.377046,33.107084 44.878543,20.548803 36.825787,11.797724 28.773043,3.0466214 17.215018,1.4161017 11.014243,8.1546145 Z m 5.622737,2.7991775 c 4.872164,-5.2946676 13.830418,-4.1429435 20.01038,2.572944 6.179974,6.715911 7.239782,16.451038 2.367616,21.745705 -4.872164,5.294656 -13.832769,4.145534 -20.012744,-2.570377 -6.179974,-6.715909 -7.237418,-16.45358 -2.365252,-21.748272 z"
      id="path5874"
      style="fill:url(#linearGradient4265);fill-opacity:1;stroke:none" />

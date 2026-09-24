@@ -35,7 +35,6 @@
          id="stop3782-0" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3778-2"
        id="linearGradient3784"
        x1="20"

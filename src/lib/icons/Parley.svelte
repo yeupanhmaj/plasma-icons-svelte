@@ -26,20 +26,17 @@
        id="filter7522">
       <feGaussianBlur
          id="feGaussianBlur7524"
-         stdDeviation="1.0592676"
-         inkscape:collect="always" />
+         stdDeviation="1.0592676" />
     </filter>
     <filter
        id="filter8029">
       <feGaussianBlur
          id="feGaussianBlur8031"
-         stdDeviation="0.82381001"
-         inkscape:collect="always" />
+         stdDeviation="0.82381001" />
     </filter>
     <filter
        id="filter9531">
       <feGaussianBlur
-         inkscape:collect="always"
          stdDeviation="0.35452"
          id="feGaussianBlur9533" />
     </filter>

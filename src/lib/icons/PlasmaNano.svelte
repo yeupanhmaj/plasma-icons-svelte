@@ -20,43 +20,7 @@
 	style="color: {color}; {style}"
 	{...restProps}
 >
-	<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1862"
-     inkscape:window-height="1043"
-     id="namedview21"
-     showgrid="true"
-     inkscape:zoom="15.083333"
-     inkscape:cx="24"
-     inkscape:cy="28.039035"
-     inkscape:window-x="58"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg30">
-    <inkscape:grid
-       type="xygrid"
-       id="grid846" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata34">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
+	<defs
      id="defs18">
     <linearGradient
        gradientTransform="translate(-384.57146,-499.79345)"
@@ -170,12 +134,10 @@
      d="M 32,4 38,10 24,24 38,38 32,44 12,24.00088 Z"
      fill="#3b3f42"
      id="path38"
-     style="stroke-width:0.8"
-     sodipodi:nodetypes="ccccccc" />
+     style="stroke-width:0.8" />
   <path
      d="m 24,24 5,5 -5.79912,6.2 L 18,30 Z"
      fill="url(#paint3_linear)"
      id="path40"
-     style="fill:url(#paint3_linear);stroke-width:0.8"
-     sodipodi:nodetypes="ccccc" />
+     style="fill:url(#paint3_linear);stroke-width:0.8" />
 </svg>

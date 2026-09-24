@@ -38,30 +38,9 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="910"
-     inkscape:window-height="480"
-     id="namedview40"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-2.6101692"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
-  <defs
+			<defs
      id="defs3871">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4300-8">
       <stop
          style="stop-color:#f27935"
@@ -72,7 +51,6 @@
          id="stop4304-7" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4357"
        xlink:href="#linearGradient4351"
        y1="61"
@@ -80,7 +58,6 @@
        gradientUnits="userSpaceOnUse"
        x2="0" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4410">
       <stop
          style="stop-color:#383e51"
@@ -91,7 +68,6 @@
          id="stop4414" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4427"
        xlink:href="#linearGradient4410"
        y1="31"
@@ -101,7 +77,6 @@
        x2="40"
        gradientTransform="matrix(1 0 0 -1 -14 78)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4306"
        xlink:href="#linearGradient4300-8"
        y1="61"
@@ -109,7 +84,6 @@
        gradientUnits="userSpaceOnUse"
        x2="0" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4351">
       <stop
          style="stop-color:#f7ab89"
@@ -120,7 +94,6 @@
          id="stop4355" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4410"
        id="linearGradient3444"
        y1="31"
@@ -130,7 +103,6 @@
        x2="40"
        gradientTransform="matrix(1 0 0 -1 503.93261 656.69754)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4351"
        id="linearGradient3447"
        y1="61"
@@ -139,7 +111,6 @@
        x2="0"
        gradientTransform="matrix(1 0 0 1 517.93261 578.69754)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4300-8"
        id="linearGradient3452"
        y1="61"
@@ -148,24 +119,11 @@
        x2="0"
        gradientTransform="matrix(1 0 0 1 517.93261 578.69754)" />
   </defs>
-  <metadata
-     id="metadata3874">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="matrix(1 0 0 1 -326 -534.3622)">
     <path
-       inkscape:connector-curvature="0"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#8373d7;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 338.5,537.3622 -4,15.75391 1,0.24609 4,-15.75391 -1,-0.24609 z m -5.24609,3 -3.97461,4.64453 -0.2793,0.35547 0.2793,0.35547 3.97461,4.64453 L 334,549.65322 330.33594,545.3622 334,541.07118 333.25391,540.3622 Z m 9.24609,0 a 2.5,2.5 0 0 0 -2.5,2.5 l 0,1.5 1,0 0,-1.5 a 1.5,1.5 0 0 1 1.5,-1.5 1.5,1.5 0 0 1 1.5,1.5 l 0,2.5 -0.5,0 a 2.5,2.5 0 0 0 -2.5,2.5 l 0,0.5 1,0 0,-0.5 a 1.5,1.5 0 0 1 1.5,-1.5 l 1,0 0.5,0 0,-3.5 a 2.5,2.5 0 0 0 -2.5,-2.5 z m -1,9 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
        id="path3454" />

@@ -44,25 +44,7 @@
 		>
 			<defs
      id="defs14" />
-  <sodipodi:namedview
-     id="namedview12"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="24.15625"
-     inkscape:cx="13.785252"
-     inkscape:cy="15.979301"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+  
   
   <g
      id="input-keyboard-virtual-on"

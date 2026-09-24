@@ -53,10 +53,8 @@
        x1="425.71429"
        id="linearGradient4154"
        xlink:href="#linearGradient4172-7"
-       inkscape:collect="always"
        gradientTransform="matrix(1.5,0,0,1.5,-79.84891,-215.56677)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4172-7">
       <stop
          style="stop-color:#1d99f3;stop-opacity:1"

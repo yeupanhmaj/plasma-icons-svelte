@@ -26,18 +26,14 @@
 			{...restProps}
 		>
 			<g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-421.71429,-531.79074)">
     <g
        transform="matrix(0.75,0,0,0.74999813,421.46429,-241.22897)"
-       id="layer1-0"
-       inkscape:label="Capa 1">
+       id="layer1-0">
       <g
          transform="translate(6.2937501e-7,-2.041003e-4)"
-         id="layer1-6"
-         inkscape:label="Capa 1">
+         id="layer1-6">
         <path
            style="fill:currentColor;fill-opacity:1;stroke:none" 
            d="M 8 2 L 2.03125 2.03125 L 2 8 L 8 13.539062 L 8 8 L 13.539062 8 L 8 2 z M 5.5 4 C 6.3284271 4 7 4.6715728 7 5.5 C 7 6.3284272 6.3284271 7 5.5 7 C 4.6715729 7 4 6.3284272 4 5.5 C 4 4.6715728 4.6715729 4 5.5 4 z "
@@ -48,8 +44,7 @@
            style="fill:currentColor;fill-opacity:1;stroke:none" 
      class="ColorScheme-NegativeText"
      d="m 12.333333,1043.8067 2.222226,2.2223 -2.222226,2.2222 1.111106,1.1111 2.222227,-2.2221 2.222227,2.2221 1.111106,-1.1111 -2.222213,-2.2222 2.222213,-2.2223 -1.111106,-1.1111 -2.222227,2.2223 -2.222227,-2.2223 -1.111106,1.1111 z"
-           id="rect5234"
-           inkscape:connector-curvature="0" />
+           id="rect5234" />
       </g>
     </g>
   </g>

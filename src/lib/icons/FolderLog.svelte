@@ -127,32 +127,28 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<!-- style definitions -->
-  
-
-  <!-- folder bg -->
-  <path
+			<path
     style="fill:currentColor"
     class="ColorScheme-Accent"
     d="m6 9v21h-1v57h86v-63h-1v-9h-42l-6-6z" />
 
-  <!-- folder fg -->
+  
   <path
     d="m6 9v21h27l6-6h51v-9h-42l-6-6z"
     fill-opacity=".33" />
 
-  <!-- folder highlight -->
+  
   <path
     d="m42 9 5 7h43v-1h-42zm-3 15-6 6h-28v1h29z"
     fill="#fff"
     fill-opacity=".2" />
 
-  <!-- folder shadow -->
+  
   <path
     d="m39 24-7 5h-26v1h27zm-34 62v1h86v-1z"
     fill-opacity=".2" />
 
-  <!-- log -->
+  
   <path
     d="m33 42v1h30v-1zm5.5 5.75a1.75 1.75 0 0 0 -1.75 1.75 1.75 1.75 0 0 0 1.75 1.75 1.75 1.75 0 0 0 1.75-1.75 1.75 1.75 0 0 0 -1.75-1.75zm3.5.25v2h15v-2zm0 3v2h6v-2zm-3.5 6.75a1.75 1.75 0 0 0 -1.75 1.75 1.75 1.75 0 0 0 1.75 1.75 1.75 1.75 0 0 0 1.75-1.75 1.75 1.75 0 0 0 -1.75-1.75zm3.5.25v2h8v-2zm0 4v2h17v-2zm-9 7v1h30v-1z"
     style="fill:currentColor;fill-opacity:0.6"

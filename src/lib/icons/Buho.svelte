@@ -54,15 +54,7 @@
    <stop stop-color="#44484e" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+ 
  <rect x="1.0583333" y="1.0583339" width="10.583333" height="10.583333" rx="1.5874995" ry="1.5874995" fill="#95a5a6" style="paint-order:normal"/>
  <path d="m2.6458478 1.0582694c-0.8794711 0-1.5875328 0.7080648-1.5875328 1.5875398v7.1437244c0 0.8794744 0.7080617 1.5875394 1.5875328 1.5875394h7.4082582c0.879471 0 1.587533-0.708065 1.587533-1.5875394v-7.1437244c0-0.879475-0.708062-1.5875398-1.587533-1.5875398z" fill="#34495e" stroke-width=".07000419" style="paint-order:markers fill stroke"/>
  <rect x="1.0583333" y="1.0583338" width="10.583333" height="10.318749" rx="1.5874997" ry="1.5874996" fill="url(#linearGradient12600)" style="paint-order:normal"/>

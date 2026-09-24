@@ -20,22 +20,9 @@
 	style="color: {color}; {style}"
 	{...restProps}
 >
-	<metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
+	<defs
      id="defs7268">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4303-6">
       <stop
          stop-color="#c6cdd1"
@@ -46,7 +33,6 @@
          id="stop14" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4293">
       <stop
          id="stop7" />
@@ -72,8 +58,7 @@
        gradientTransform="matrix(1.0833343,0,0,1.1796287,-410.61963,401.41454)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4643-8-1-1-3"
-       xlink:href="#linearGradient4303-6"
-       inkscape:collect="always" />
+       xlink:href="#linearGradient4303-6" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="25"
@@ -82,7 +67,6 @@
        x1="9.0000095"
        id="linearGradient4226-63-0-5"
        xlink:href="#linearGradient4293"
-       inkscape:collect="always"
        gradientTransform="matrix(1.7391305,0,0,1.6952863,4.3478239,989.71385)" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -91,10 +75,8 @@
        y1="24.999973"
        id="linearGradient4224-1-6"
        xlink:href="#linearGradient4227"
-       inkscape:collect="always"
        gradientTransform="matrix(1.7142891,0,0,1.7142891,4.5713728,989.50486)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4293"
        id="linearGradient4258"
        gradientUnits="userSpaceOnUse"
@@ -104,33 +86,8 @@
        x2="406.57147"
        y2="540.79797" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="20.618573"
-     inkscape:cy="18.856231"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1015"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:object-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid7814" />
-  </sodipodi:namedview>
+  
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-988.36216)">
     <rect
@@ -143,10 +100,8 @@
        style="fill:url(#linearGradient4643-8-1-1-3)" />
     <path
        d="m 7,1044.3622 50,-44 1,1 -2e-5,45 -48.99998,0 z"
-       inkscape:connector-curvature="0"
        id="path6562-1-7"
-       style="opacity:0.2;fill:url(#linearGradient4258);fill-rule:evenodd"
-       sodipodi:nodetypes="cccccc" />
+       style="opacity:0.2;fill:url(#linearGradient4258);fill-rule:evenodd" />
     <rect
        style="fill:#566069"
        width="51.999985"
@@ -177,13 +132,11 @@
        rx="1"
        id="rect6570-2-6" />
     <path
-       inkscape:connector-curvature="0"
        d="m 32.173915,1008.3622 -3.478262,6.7811 4.055705,3.9535 -2.316574,1.1325 -3.478264,-3.3908 -6.95652,3.3908 20.869565,20.3433 19.130435,0 0,-5.0857 -15.652173,-15.2576 -12.173912,-11.8671 z"
        id="path6572-2-0"
        style="opacity:0.2;fill:url(#linearGradient4226-63-0-5);fill-rule:evenodd" />
     <path
        style="fill:url(#linearGradient4224-1-6);stroke-width:0.1"
-       inkscape:connector-curvature="0"
        d="m 32.000002,1008.3622 -3.428579,6.8571 6.857157,0 -3.428578,-6.8571 z m -5.142871,8.5714 -6.857155,3.4288 6.857155,3.4284 0,-6.8572 z m 10.285735,0 0,6.8572 6.857158,-3.4284 -6.857158,-3.4288 z m -5.142864,1.7143 c -0.949717,0 -1.71429,0.7647 -1.71429,1.7145 0,0.9494 0.764572,1.7141 1.71429,1.7141 0.949714,0 1.714289,-0.7647 1.714289,-1.7141 0,-0.9498 -0.764575,-1.7145 -1.714289,-1.7145 z m -3.428579,6.8572 3.428579,6.8571 3.428578,-6.8571 -6.857157,0 z"
        id="path6574-5-6" />
   </g>

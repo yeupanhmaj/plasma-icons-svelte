@@ -20,11 +20,7 @@
 	style="color: {color}; {style}"
 	{...restProps}
 >
-	<!--
-SPDX-FileCopyrightText: Manuel Jesús de la Fuente <m@nueljl.in>
-SPDX-License-Identifier: CC-BY-SA-4.0
--->
-    <path d="M7.5 27.5L24 44L40.5 27.5H7.5Z" fill="url(#bottom_bg)"/>
+	<path d="M7.5 27.5L24 44L40.5 27.5H7.5Z" fill="url(#bottom_bg)"/>
     <path d="m24 4-16.5 23.5 6 2.5h21l6-2.5-16.4998-23.5z" clip-rule="evenodd" fill="url(#top_bg)" fill-rule="evenodd"/>
     <path d="M13.5 30L24 44L34.5 30H13.5Z" fill="url(#bottom_fg)"/>
     <path d="M13.5 30L24 4L34.5 30H13.5Z" fill="url(#top_fg)"/>

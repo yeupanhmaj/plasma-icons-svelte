@@ -25,19 +25,7 @@
 			style="color: {color}; {style}"
 			{...restProps}
 		>
-			<metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
+			<defs
      id="defs3051">
     
     <linearGradient
@@ -85,7 +73,6 @@
      id="defs3051">
     
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4300-8">
       <stop
          stop-color="#f27935"
@@ -96,7 +83,6 @@
          id="stop4304-7" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4351"
        id="linearGradient4357"
        y1="61"
@@ -104,7 +90,6 @@
        x2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4410">
       <stop
          stop-color="#383e51"
@@ -116,7 +101,6 @@
          stop-opacity="0" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4410"
        id="linearGradient4427"
        y1="31"
@@ -126,7 +110,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0 -1 -14 78)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4300-8"
        id="linearGradient4306"
        y1="61"
@@ -134,7 +117,6 @@
        x2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4351">
       <stop
          stop-color="#f7ab89"
@@ -145,7 +127,6 @@
          id="stop4355" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3444"
        xlink:href="#linearGradient4410"
        y1="31"
@@ -155,7 +136,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0 -1 503.93 656.7)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3447"
        xlink:href="#linearGradient4351"
        y1="61"
@@ -164,7 +144,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0 1 517.93 578.7)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3452"
        xlink:href="#linearGradient4300-8"
        y1="61"
@@ -173,7 +152,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0 1 517.93 578.7)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4172-7"
        id="linearGradient4164"
        y1="1049.36"
@@ -183,7 +161,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.75,0,0,0.75,2.75,-770.02)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4172-7">
       <stop
          stop-color="#1d99f3"
@@ -197,7 +174,6 @@
   <g
      transform="matrix(1 0 0 1 -326 -534.36)">
     <g
-       inkscape:label="Capa 1"
        id="layer1-3"
        transform="matrix(1 0 0 1 326 -496)">
       <path

@@ -1,4 +1,4 @@
-﻿import fs from 'node:fs';
+import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -26,6 +26,7 @@ function cleanSvg(raw) {
 	let s = raw
 		.replace(/<\?xml[^>]*\?>/gi, '')
 		.replace(/<!DOCTYPE[^>]*>/gi, '')
+		.replace(/<!--[\s\S]*?-->/gi, '')
 		.trim();
 
 	const svgMatch = s.match(/<svg([^>]*)>([\s\S]*)<\/svg>/i);
@@ -46,6 +47,19 @@ function cleanSvg(raw) {
 			viewBox = `0 0 ${w} ${h}`;
 		}
 	}
+
+	// Remove editor tags (inkscape, sodipodi, metadata, rdf)
+	inner = inner.replace(/<sodipodi:[^>]*>[\s\S]*?<\/sodipodi:[^>]*>/gi, '');
+	inner = inner.replace(/<sodipodi:[^>]*\/>/gi, '');
+	inner = inner.replace(/<inkscape:[^>]*>[\s\S]*?<\/inkscape:[^>]*>/gi, '');
+	inner = inner.replace(/<inkscape:[^>]*\/>/gi, '');
+	inner = inner.replace(/<metadata[^>]*>[\s\S]*?<\/metadata>/gi, '');
+	inner = inner.replace(/<defs[^>]*id=["']defs1?["']\/>/gi, '');
+
+	// Remove namespaced editor attributes: inkscape:..., sodipodi:..., rdf:..., dc:...
+	inner = inner.replace(/\s*(?:inkscape|sodipodi|rdf|dc|cc):[a-zA-Z0-9_\-]+="[^"]*"/gi, '');
+	inner = inner.replace(/\s*(?:inkscape|sodipodi|rdf|dc|cc):[a-zA-Z0-9_\-]+='[^']*'/gi, '');
+	inner = inner.replace(/\s*xmlns:(?:inkscape|sodipodi|rdf|dc|cc)="[^"]*"/gi, '');
 
 	// Remove current-color-scheme style tag
 	inner = inner.replace(/<style[^>]*id=["']current-color-scheme["'][^>]*>[\s\S]*?<\/style>/gi, '');

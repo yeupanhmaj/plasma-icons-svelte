@@ -56,25 +56,7 @@
 		>
 			<defs
      id="defs10" />
-  <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="205"
-     inkscape:cy="-151"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+  
   
   <g
      id="battery-ups"
@@ -87,12 +69,10 @@
        id="rect4447"
        style="opacity:1;fill:none;fill-opacity:1;stroke:none" />
     <path
-       inkscape:connector-curvature="0"
        id="rect4411"
        d="m 189.53572,432.50504 v 24 h 18 v -24 z m 1,1 h 16 v 22 h -16 z m 8,2 -3,7 h 3 v 4 l 3,-7 h -3 z m -6,15 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 4.5,0 c -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 0,-0.82843 -0.67157,-1.5 -1.5,-1.5 z"
        style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccsssss" />
+       class="ColorScheme-Text" />
   </g>
 		</svg>
 	{/if}
