@@ -1,0 +1,27 @@
+/* Plasma Icons CSS */
+.plasma-icon {
+	display: inline-block;
+	vertical-align: middle;
+	flex-shrink: 0;
+}
+
+.plasma-icon .ColorScheme-Text {
+	fill: currentColor;
+}
+
+.plasma-icon .ColorScheme-NegativeText {
+	fill: var(--plasma-color-danger, #da4453);
+}
+
+.plasma-icon .ColorScheme-PositiveText {
+	fill: var(--plasma-color-success, #27ae60);
+}
+
+.plasma-icon .ColorScheme-NeutralText {
+	fill: var(--plasma-color-warning, #f67400);
+}
+
+.plasma-icon .ColorScheme-Highlight,
+.plasma-icon .ColorScheme-Accent {
+	fill: var(--plasma-color-primary, #3daee9);
+}

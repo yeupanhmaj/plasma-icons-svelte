@@ -1,0 +1,28 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 32,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 22 22"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<g id="software-updates-security" transform="translate(-22,2.66454e-15)">
+    <path style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 29,7 -3,3 0,9 5.099609,0 L 35,19 l 5.099609,0 0,-9 -3,-3 L 35,7 31.099609,7 Z m 0.3,1 3.7,0 3.7,0 2,2 -11.4,0 z m 1.7,3 4,0 0,5 -1,-1 -1,1 -1,-1 -1,1 z" id="path4185" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccccccccccc" class="ColorScheme-Text"/>
+    <path id="path4191" d="m 38,3 c 0,1 -2,1 -2,1 l 0,3 c 0,1 1,1 2,2 1,-1 2,-1 2,-2 l 0,-3 c 0,0 -2,0 -2,-1 z" style="fill:#fdbc4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" inkscape:connector-curvature="0"/>
+    <rect style="opacity:1;fill:none;fill-opacity:0.59905659;stroke:none" id="rect4208" width="22" height="22" x="22" y="-2.6645353e-15"/>
+  </g>
+</svg>

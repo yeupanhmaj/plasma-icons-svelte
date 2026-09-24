@@ -1,0 +1,124 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+
+	const numericSize = $derived(
+		typeof size === 'number' ? size : parseInt(String(size), 10) || 22
+	);
+</script>
+
+	{#if numericSize <= 19}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 16 16"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<path fill="#6c7a89" d="m5 2v3h-3v1h3v4h-3v1h3v3h1v-3h4v3h1v-3h3v-1h-3v-4h3v-1h-3v-3h-1v3h-4v-3zm1 4h4v4h-4z"/>
+		</svg>
+	{:else if numericSize <= 27}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 22 22"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<defs id="defs3871"/>
+ <metadata id="metadata3874"/>
+ <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
+  <rect width="1" x="333" y="537.36218" height="16" style="fill:#6c7a89;stroke-width:2" id="rect5552"/>
+  <rect width="1" x="340" y="537.36218" height="16" style="fill:#6c7a89;stroke-width:2" id="rect5552-2"/>
+  <rect width="1" x="541.36218" y="-345" height="16" style="fill:#6c7a89;stroke-width:2" id="rect5552-1" transform="matrix(0 1 -1 0 0 0)"/>
+  <rect width="1" x="548.36218" y="-345" height="16" style="fill:#6c7a89;stroke-width:2" id="rect5552-2-5" transform="matrix(0 1 -1 0 0 0)"/>
+ </g>
+		</svg>
+	{:else if numericSize <= 48}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 32 32"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<defs>
+  <linearGradient id="a" y1="518.04" y2="524.8" x2="0" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#566472"/>
+   <stop offset="1" stop-color="#5e6b78"/>
+  </linearGradient>
+  <linearGradient id="b" y1="524.8" x1="404.57" y2="531.8" x2="411.57" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#383e51"/>
+   <stop offset="1" stop-color="#655c6f" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="c" y1="2.719" y2="61" x1="7.729" x2="8.271" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)">
+   <stop stop-color="#bdc3c7"/>
+   <stop offset="1" stop-color="#dadfe1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-384.57-515.8)">
+  <path fill="url(#c)" d="m389.57 545.8v-28h15l7 7v21h-7z"/>
+  <g transform="scale(1-1)">
+   <rect width="15" x="389.57" y="-518.8" fill="#ffffff" height="1" fill-opacity=".412"/>
+   <rect width="22" x="389.57" y="-545.8" fill="#2e3132" height="1" fill-opacity=".294"/>
+  </g>
+  <g fill-rule="evenodd">
+   <path fill="url(#a)" d="m411.57 524.8l-7-7v7z"/>
+   <path opacity=".2" fill="url(#b)" d="m411.57 531.8l-7-7h7z"/>
+  </g>
+  <path fill="#5e6b78" d="m397.57 527.8v3h-3v1h3v4h-3v1h3v3h1v-3h4v3h1v-3h3v-1h-3v-4h3v-1h-3v-3h-1v3h-4v-3zm1 4h4v4h-4z"/>
+ </g>
+		</svg>
+	{:else}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 64 64"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<defs>
+  <linearGradient id="a" y1="3" y2="61" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
+   <stop stop-color="#bdc3c7"/>
+   <stop offset="1" stop-color="#dadfe1"/>
+  </linearGradient>
+  <linearGradient id="b" y1="61" y2="47" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
+   <stop stop-color="#566472"/>
+   <stop offset="1" stop-color="#5e6b78"/>
+  </linearGradient>
+  <linearGradient id="c" y1="17" x1="40" y2="31" x2="54" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#383e51"/>
+   <stop offset="1" stop-color="#655c6f" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#a)" d="m10 61v-58h30l14 14v44h-14z"/>
+ <g transform="scale(1-1)">
+  <rect width="30" x="10" y="-4" fill="#ffffff" height="1" fill-opacity=".412"/>
+  <rect width="44" x="10" y="-61" fill="#2e3132" height="1" fill-opacity=".294"/>
+ </g>
+ <g fill-rule="evenodd">
+  <path fill="url(#b)" d="m54 17l-14-14v14z"/>
+  <path opacity=".2" fill="url(#c)" d="m40 17l14 14v-14z"/>
+ </g>
+ <path fill="#5e6b78" d="m28 22v7h-7v1h7v6h-7v1h7v7h1v-7h6v7h1v-7h7v-1h-7v-6h7v-1h-7v-7h-1v7h-6v-7zm1 8h6v6h-6z"/>
+		</svg>
+	{/if}

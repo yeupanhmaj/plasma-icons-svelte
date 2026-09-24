@@ -1,0 +1,25 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 22 22"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<path style="opacity:0.35;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 3,19 19,3 v 16 z" id="path5122" class="ColorScheme-Text" />
+  <path class="ColorScheme-Text" id="path5204" d="M 3,3 V 7 8 H 7 V 7 H 4 V 6 H 6 V 5 H 4 V 4 H 7 V 3 H 4 Z" style="fill:currentColor;fill-opacity:1;stroke:none" />
+</svg>

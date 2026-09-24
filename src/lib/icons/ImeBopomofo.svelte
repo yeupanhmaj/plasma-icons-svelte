@@ -1,0 +1,27 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 22 22"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<g id="ime-bopomofo" transform="translate(66,0) translate(-66,0)" style="fill:#cccccc">
+    <rect y="0" x="0" height="22" width="22" id="rect4212" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    <path id="path4214" transform="translate(-88,-33.999992)" d="m 91,37 0,16 16,0 0,-16 -16,0 z m 1,1 14,0 0,14 -14,0 0,-14 z m 7.300781,0.599609 -0.601562,0.800782 2.000001,1.5 0.60156,-0.800782 -1.999999,-1.5 z m -5.947265,0.04687 -0.707032,0.707032 2,2 0.707032,-0.707032 -2,-2 z M 96,41 l 0,1 4,0 0,3 -3,0 0,1 3,0 0,4 -4,0 0,1 9,0 0,-1 -4,0 0,-4 3,0 0,-1 -3,0 0,-3 4,0 0,-1 -9,0 z m -2.646484,0.646484 -0.707032,0.707032 2,2 0.707032,-0.707032 -2,-2 z m 1.171875,3.195313 -2,6 0.949218,0.316406 2,-6 -0.949218,-0.316406 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+  </g>
+</svg>

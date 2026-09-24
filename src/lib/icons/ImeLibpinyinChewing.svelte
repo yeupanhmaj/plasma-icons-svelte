@@ -1,0 +1,27 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 22 22"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<g transform="translate(88,22.000008) translate(-88,-22)" id="ime-libpinyin-chewing">
+    <path id="path4360" transform="translate(-88,-34)" d="m 91,37 0,0.5 0,15.5 16,0 0,-16 -16,0 z m 2,2 6,0 0,1 -2,0 0,3 1.5,0 0.5,0 -0.400391,-0.300781 C 98.599609,42.699219 100,40.75 100,39 l 1,0 c 0,0.708749 -0.16537,1.388658 -0.38281,2 L 102,41 l 0,-2 1,0 0,2 2,0 0,1 -2,0 0,2 2,0 0,1 -5,0 0,-1 2,0 0,-2 -1.80273,0 c -0.398628,0.789612 -0.796879,1.300781 -0.796879,1.300781 L 99,43 l 0,8 -0.5,0 -4.5,0 -1,0 0,-8 1,0 0,-3 -1,0 0,-1 z m 2,1 0,3 1,0 0,-3 -1,0 z m 0,4 0,3 -1,0 0,1 3,0 0,1 -3,0 0,1 4,0 0,-6 -1,0 0,3 -1,0 0,-3 -1,0 z m 5,2 5,0 0,5 -5,0 0,-4.5 0,-0.5 z m 1,1 0,3 3,0 0,-3 -3,0 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+    <rect style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter" id="rect4353" width="22" height="22" x="0" y="0"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 22 22"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<g transform="translate(88,8e-6) translate(-88,-8e-06)" id="fcitx-chewing">
+    <path class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" d="m 91,37 0,0.5 0,15.5 16,0 0,-16 -16,0 z m 1,1 14,0 0,14 -14,0 0,-14 z m 1,1 0,1 1,0 0,3 -1,0 0,8 1,0 4.5,0 0.5,0 0,-8 -0.5,0 -1.5,0 0,-3 2,0 0,-1 -6,0 z m 6,4 0.400391,0.300781 c 0,0 0.398251,-0.511169 0.796879,-1.300781 L 102,42 l 0,2 -2,0 0,1 5,0 0,-1 -2,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 0,2 -1.38281,0 C 100.83463,40.388658 101,39.708749 101,39 l -1,0 c 0,1.75 -1.400391,3.699219 -1.400391,3.699219 L 99,43 Z m -4,-3 1,0 0,3 -1,0 0,-3 z m 0,4 1,0 0,3 1,0 0,-3 1,0 0,6 -4,0 0,-1 3,0 0,-1 -3,0 0,-1 1,0 0,-3 z m 5,2 0,0.5 0,4.5 5,0 0,-5 -5,0 z m 1,1 3,0 0,3 -3,0 0,-3 z" id="path4265" transform="translate(-88,-34)"/>
+    <rect style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter" id="rect4267" width="22" height="22" x="0" y="0"/>
+  </g>
+</svg>

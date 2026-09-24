@@ -1,0 +1,59 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 16,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 16 16"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<defs
+     id="defs3051">
+        
+     <linearGradient
+       id="linearGradient3778">
+      <stop
+         style="stop-color:currentColor;stop-opacity:0.2" 
+         offset="0"
+         id="stop3780"
+       class="ColorScheme-Text" />
+      <stop
+         style="stop-color:currentColor;stop-opacity:0.7" 
+         offset="1"
+         id="stop3782"
+       class="ColorScheme-Text" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3778"
+       id="radialGradient3786"
+       cx="12"
+       cy="12"
+       fx="12"
+       fy="12"
+       r="8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.75000027,0,0,-0.75000165,438.7143,548.79075)" />
+  </defs>
+     <g transform="translate(-421.71429,-531.79074)">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:url(#radialGradient3786);fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 423.71429,533.79072 0,10.50002 0,0.75 0,0.75 12.00001,0 0,-12.00002 z"
+       id="rect4151-6" />
+    </g>
+</svg>

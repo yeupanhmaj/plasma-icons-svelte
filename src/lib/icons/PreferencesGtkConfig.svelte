@@ -1,0 +1,71 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+
+	const numericSize = $derived(
+		typeof size === 'number' ? size : parseInt(String(size), 10) || 22
+	);
+</script>
+
+	{#if numericSize <= 27}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 22 22"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<linearGradient id="a" gradientUnits="userSpaceOnUse" x1="7" x2="17" xlink:href="#c" y1="8" y2="18"/><linearGradient id="b" gradientTransform="matrix(.41666692 0 0 .40833269 -159.23827 -203.25094)" gradientUnits="userSpaceOnUse" x2="0" y1="543.79797" y2="502.65509"><stop offset="0" stop-color="#c6cdd1"/><stop offset="1" stop-color="#e0e5e7"/></linearGradient><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="5.375003" x2="14.75002" y1="7.000012" y2="16.375009"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><path d="m1.000006 2h19.999994v18h-19.999994z" fill="url(#b)" stroke-width=".633866"/><path d="m2 18 18-11 1 1v12h-17z" fill="url(#c)" fill-rule="evenodd" opacity=".2" stroke-width=".625"/><path d="m1 2h20.000002v3h-20.000002z" fill="#566069" stroke-width=".684653"/><path d="m1.000027 5h19.999973v1h-19.999973z" fill="#3daee9" stroke-width=".790569"/><path d="m2 7h18v10.999999h-18z" fill="#fff" stroke-width=".574456"/><rect fill="#eff0f1" height="1.5" rx=".75" stroke-width=".75" width="1.5" x="18.75" y="2.75"/><path d="m11.494141 8c-.9916-.03097-.673163 1.4323262-.226563 1.8789062l1.513672 1.5136718c-.137776-.06999-.288856-.132426-.449219-.1875l-2.5800779-2.580078c-.06765-.06764-.1505569-.1093044-.2480469-.1152344-.06331-.00385-.1329076.00837-.2109374.039063-.53754.08067-.3416217 1.5236134.017578 1.8828134l.7207032.720703c-.3807803.13475-.7387233.34093-1.0390626.605468l-1.2851562-1.285157c-.06797-.068-.1464718-.110281-.2324218-.113281-.0723-.0019-.150945.02233-.234375.08203-.44043.3161-.20137.927508.125 1.253906l.9609375.960938c-.094132.215284-.1598037.445592-.1835938.691406-.19086.8312.2524869 1.836431.9980469 2.582032l2.070313 2.070313h8.789062v-4.955078l-4.839844-4.8398439c-.1224-.12242-.334509-.1952525-.662109-.1953125-.820617 0-1.295783.5774481-1.480469 1.2128906l-1.08789-1.0878906c-.078-.07796-.18226-.12456-.31836-.125-.0412-.00556-.079687-.0085956-.117187-.0097656z" fill="url(#a)" opacity=".2"/><path d="m11.494141 8c-1.161042-.036261-.525882 1.9754309.0078 2.005859.53345.03063 1.014645-1.9931653.109375-1.9960934-.04125-.00556-.07973-.0086-.117187-.00977zm3.003906.00977c-1.82619 0-1.957168 2.857422-.929688 2.857422.48588 0 2.981208-2.8570741.929688-2.857422zm-4.9941408.5c-.06331-.00385-.1329075.00837-.2109374.039063-.6285.094321-.2547225 2.052078.2109374 1.960938.6120198-.0681.7001898-1.9573935 0-2.000001zm-2.0292968 1.849605c-.072298-.0019-.15095.02229-.234375.08203-.665838.4778.2234643 1.632095.6152344 1.453125.3426879-.15677.1253576-1.517516-.3808594-1.535156zm3.6640626.609375c-1.3653581-.033734-2.8556939.928247-2.9960939 2.378906-.351312 1.53008 1.4458957 3.652344 3.3222659 3.652344.92306 0 1.98814-.810651 2.1875-1.837891.15211-.78322-1.790393-.469381-1.720703.04883.08378.621259-.468976.927773-1.009766.527343-1.72139-1.27498 2.850378-1.910444 2.548828-3.652343-.09385-.542241-1.11717-.976964-2.0625-1.095704-.08948-.01124-.178507-.01923-.269531-.02148z" fill="#353b3e" stroke-width=".064286"/>
+		</svg>
+	{:else}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 32 32"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<defs id="defs5455">
+  <linearGradient inkscape:collect="always" id="linearGradient4293">
+   <stop id="stop4295"/>
+   <stop offset="1" style="stop-opacity:0" id="stop4297"/>
+  </linearGradient>
+  <linearGradient inkscape:collect="always" id="linearGradient4303-6">
+   <stop style="stop-color:#c6cdd1" id="stop4305-7"/>
+   <stop offset="1" style="stop-color:#e0e5e7" id="stop4307-0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3052">
+   <stop style="stop-color:#555753" id="stop3054"/>
+   <stop offset="1" style="stop-color:#2e3436" id="stop3056"/>
+  </linearGradient>
+  <radialGradient cx="25.641" cy="3.6836" r="17.995" xlink:href="#linearGradient3052" id="radialGradient3082" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.58724559 -0.0000004 0 0.25688859 387.29707 527.70784)"/>
+  <linearGradient inkscape:collect="always" xlink:href="#linearGradient4293" id="linearGradient4427" y1="10.999974" x1="9" y2="25" x2="23" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 384.57143 515.798)"/>
+  <linearGradient inkscape:collect="always" xlink:href="#linearGradient4303-6" id="linearGradient4643-8" y1="543.79797" y2="502.65509" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(0.66666726 0 0 0.63518419 128.19015 198.5187)"/>
+  <linearGradient inkscape:collect="always" xlink:href="#linearGradient4293" id="linearGradient4183" y1="525.79797" x1="391.57144" y2="540.79797" x2="406.57147" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <metadata id="metadata5458"/>
+ <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -384.57143 -515.798)">
+  <rect width="32" x="384.57144" y="517.79797" rx="0" height="28" style="fill:url(#linearGradient4643-8)" id="rect4641-5"/>
+  <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4183);opacity:0.2;fill-rule:evenodd" id="path4167" d="m 385.57143,543.798 30,-20 1.00001,1 -10e-6,20.99997 -29,3e-5 z"/>
+  <rect width="32.00001" x="384.57141" y="517.79797" height="4" style="fill:#566069" id="rect4647-8"/>
+  <rect width="31.999968" x="384.57141" y="521.79797" height="1" style="fill:#3daee9" id="rect4649-8"/>
+  <rect width="30" x="385.57141" y="523.79797" height="20.00003" style="fill:#ffffff" id="rect4653-5"/>
+  <rect width="2" x="413.57141" y="518.79797" rx="1" height="2" style="fill:#eff0f1" id="rect4661-1"/>
+  <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4427);opacity:0.2;fill-rule:evenodd" id="path4375" d="m 405.5892,527.19361 c -0.40007,1.17369 -1.0243,2.25385 -1.80478,3.26765 l -2.78941,-2.79157 -1.28558,2.032 0.12231,0.31676 0.3219,0.31675 0.64379,0.63352 1.28758,1.26702 c -0.0399,0.0376 0.0151,0.073 -0.0253,0.11037 l -0.22938,-0.12119 -3.69829,-3.69828 -0.61891,1.13826 0.37221,0.37221 -0.45171,0.60593 0.18085,0.18097 0.18096,0.18096 0.36205,0.36193 0.72386,0.72386 1.44772,1.44772 c -0.54835,-0.32362 -1.54811,-0.56096 -1.54811,-0.56096 l -0.53453,-0.50377 -1.13513,-1.13502 -0.56756,-0.56752 -0.28379,-0.28375 -0.14189,-0.14188 -0.2083,-0.14188 -0.43945,0.80069 0.2467,0.42847 -0.46048,0.37004 0.2098,0.23141 0.10946,0.23142 0.41962,0.46282 0.83923,0.92566 1.67847,1.85131 c -0.32652,0.18621 -1.53346,0.37593 -1.87423,0.55615 l 1.03872,2.56218 5.89383,6.17415 12,0 0,-7 z"/>
+  <path inkscape:connector-curvature="0" style="fill:url(#radialGradient3082)" id="path4490" d="m 404.9986,526.79799 c -2.84396,0 -3.37747,4.15516 -1.77736,4.15516 1.59946,0 4.62167,-4.15516 1.77736,-4.15516 z m -4.38059,0.63928 c -0.0448,-1.6e-4 -0.0935,0.004 -0.14392,0.009 -1.61165,0.19573 -1.04443,2.81837 -0.18648,2.86728 0.83075,0.0477 1.73963,-2.87147 0.32984,-2.87603 z m -2.79453,0.96823 c -0.0986,-0.006 -0.20775,0.012 -0.32927,0.0598 -1.29538,0.51147 -0.19656,2.6228 0.52863,2.48087 0.65821,-0.12861 0.75257,-2.48131 -0.19936,-2.54079 z m -2.11437,1.72614 c -0.11259,-0.003 -0.23407,0.0343 -0.36399,0.12733 -1.03692,0.74409 0.34888,2.54172 0.95899,2.26301 0.53368,-0.24414 0.1932,-2.36287 -0.59514,-2.39034 z m 6.12425,1.71611 c -2.24667,-0.037 -5.21044,1.05918 -5.71601,3.26124 -0.54711,2.38282 2.25375,5.689 5.17585,5.689 1.43749,0 3.09547,-1.26318 3.40594,-2.86292 0.23688,-1.21972 -2.78799,-0.73091 -2.67946,0.0761 0.13048,0.96751 -0.72956,1.44577 -1.57173,0.82217 -2.68075,-1.98554 4.43883,-2.97633 3.96923,-5.68901 -0.14616,-0.84444 -1.23585,-1.27445 -2.58382,-1.29664 z"/>
+ </g>
+		</svg>
+	{/if}

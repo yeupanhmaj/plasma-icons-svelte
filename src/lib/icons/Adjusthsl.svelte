@@ -1,0 +1,53 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 22 22"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<defs id="defs3051">
+        
+      <linearGradient
+       id="linearGradient4469"
+       inkscape:collect="always">
+      <stop
+         id="stop4471"
+         offset="0"
+         style="stop-color:currentColor;stop-opacity:0.8"  />
+      <stop
+         id="stop4473"
+         offset="1"
+         style="stop-color:currentColor;stop-opacity:0"  />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4469"
+       id="linearGradient5093"
+       x1="555.57141"
+       y1="745.93359"
+       x2="555.57141"
+       y2="761.93359"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+ <path 
+        style="opacity:1;fill:url(#linearGradient5093);fill-opacity:1;stroke:none"
+        d="m 547.57141,745.93359 16,0 0,16.00001 -16,0 z"
+	class="ColorScheme-Text"
+     transform="translate(-544.57141,-742.93359)"
+    />
+</svg>

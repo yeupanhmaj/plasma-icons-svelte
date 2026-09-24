@@ -1,0 +1,89 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 32,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+
+	const numericSize = $derived(
+		typeof size === 'number' ? size : parseInt(String(size), 10) || 32
+	);
+</script>
+
+	{#if numericSize <= 40}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 32 32"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<g style="fill:none" id="32-32-osd-shutd-screen">
+      <rect id="rect4200-9" height="32" width="32" x="0" y="0" style="fill:none"/>
+      <path style="color:#7b7c7e;fill:currentColor;fill-opacity:1;stroke:none" d="m 125,36 0,9 1,0 0,-8 15,0 0,12 -9,0 0,1 10,0 0,-14 -17,0 z m -11,10 0,14 17,0 0,-14 -17,0 z m 1,1 15,0 0,12 -15,0 0,-12 z" transform="translate(-112,-32.00004)" id="path4204-73" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
+      <path id="path4210-6" d="m 5,17 0,8 11,0 0,-8 -11,0 z m 7,1 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -8,2 9,0 0,4 -9,0 0,-4 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Accent"/>
+      <path id="path4214" d="M 18.6712,6.75717 17.2572,8.17123 20.0853,10.9994 18.0847,13 20,13 l 0,0.9128 1.4994,-1.4994 2.8281,2.8281 1.414,-1.414 -2.8281,-2.8281 2.8281,-2.82817 -1.414,-1.41406 -2.8281,2.82813 -2.8282,-2.82813 z" inkscape:connector-curvature="0" style="clip-rule:evenodd;fill:#da4453;fill-rule:evenodd"/>
+    </g>
+		</svg>
+	{:else if numericSize <= 56}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 48 48"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<g style="fill:none" id="48-48-osd-shutd-screen">
+      <rect id="rect4234-1" height="48" width="48" x="0" y="0" style="fill:none"/>
+      <path style="color:#7b7c7e;fill:currentColor;fill-opacity:1;stroke:none" d="m 80,21 0,14 1,0 0,-12.998047 28,-0.002 0,16 -12,0 0,1 0,5 0,1 1,0 4,0 0,-1 -4,0 0,-5 12,0 0,-18 -30,0 z m -14,15 0,18 12,0 0,5 -4,0 0,1 9,0 1,0 4,0 0,-1 -4,0 0,-5 12,0 0,-18 -30,0 z m 29,1 0,16 -13,0 -1,0 L 67,53 67,37.001953 95,37 Z m -16,17 4,0 0,5 -4,0 0,-5 z" transform="translate(-64,-16.00004)" id="path4238-29" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
+      <path id="path4244-3" d="m 9,23 16,0 0,12 -16,0 0,-12 z m 1,5 0,6 2,0 0,-6 -2,0 z m 3,6 11,0 0,-6 -11,0 0,6 z m 11,-7 -14,0 0,-1 14,0 0,1 z m -4,-3 -1,0 0,1 1,0 0,-1 z m 2,0 -1,0 0,1 1,0 0,-1 z m 2,0 -1,0 0,1 1,0 0,-1 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Accent"/>
+      <path id="path4248" d="M 27.4141,9.00002 26,10.4141 l 1.6426,1.6426 1.8925,1.8925 -1.7617,1.7618 -1.7734,1.7734 1.4141,1.4141 1.6425,-1.6426 1.8926,-1.8926 3.5352,3.5352 1.414,-1.4141 -3.5351,-3.5352 3.5351,-3.5351 -1.414,-1.41408 -3.5352,3.53518 -1.7617,-1.7617 -1.7734,-1.77348 0,0 z" inkscape:connector-curvature="0" style="fill:#da4453"/>
+    </g>
+		</svg>
+	{:else if numericSize <= 96}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 64 64"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<g style="fill:none" id="64-64-osd-shutd-screen">
+      <rect id="rect4271" height="64" width="64" x="0" y="0" style="fill:none"/>
+      <path style="color:#7b7c7e;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 26,12 0,14 1,0 0,-12.998047 32,-0.002 0,18 -20,0 0,1 20,0 0,1 -13,0 -1,0 -6,0 0,1 1,0 0,4 -1,0 0,1 6,0 1,0 4,0 0,-1 -4,0 0,-4 14,0 0,-22 -34,0 z m -22,15 0,22 14,0 0,4 -4,0 0,1 9,0 1,0 4,0 0,-1 -4,0 0,-4 14,0 0,-22 -34,0 z M 37,28 37,46 5,46 5,28.001953 37,28 Z m 4,6 4,0 0,4 -4,0 0,-4 z m -36,13 32,0 0,1 -13,0 -1,0 -18,0 0,-1 z m 14,2 4,0 0,4 -4,0 0,-4 z" transform="translate(0,-1)" id="path4273-1" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
+      <path id="path4283" d="m 13,30 16,0 0,12 -16,0 0,-12 z m 1,5 0,6 2,0 0,-6 -2,0 z m 3,6 11,0 0,-6 -11,0 0,6 z m 11,-7 -14,0 0,-1 14,0 0,1 z m -4,-3 -1,0 0,1 1,0 0,-1 z m 2,0 -1,0 0,1 1,0 0,-1 z m 2,0 -1,0 0,1 1,0 0,-1 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Accent"/>
+      <path id="path4285" d="m 38.0499,14.6358 -1.4141,1.414 1.5332,1.5332 0,0.002 3.416,3.4141 L 37.5841,25 39,25 l 0,1.4122 0.583,-0.583 0.0021,0 1.8289,-1.83 0.0011,0 1.584,-1.5841 4.9492,4.9473 1.4141,-1.4121 0,-0.002 -3.3632,-3.3619 0,-0.0033 -1.5841,-1.584 4.9473,-4.9493 -1.4121,-1.414 -0.002,0 -4.9492,4.9492 -4.9492,-4.9492 z" inkscape:connector-curvature="0" style="clip-rule:evenodd;fill:#da4453;fill-rule:evenodd"/>
+    </g>
+		</svg>
+	{:else}
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 128 128"
+			width={size}
+			height={size}
+			fill={color}
+			class="plasma-icon {className}"
+			style="color: {color}; {style}"
+			{...restProps}
+		>
+			<g style="fill:none" id="osd-shutd-screen">
+      <rect id="rect4305" height="128" width="128" x="0" y="0" style="fill:none"/>
+      <path style="color:#7b7c7e;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m -77,-43 0,33 1,0 0,-32 68,0 0,41 -41,0 0,1 2,0 0,8 -2,0 0,1 20,0 0,-1 -8,0 0,-8 30,0 0,-42.998047 L -77,-43 Z m 2,2 0,31 1,0 0,-30 64,0 0,36 -39,0 0,1 40,0 0,-38 -66,0 z m -46,33 0,43 30,0 0,8 -8,0 0,1 26,0 0,-1 -8,0 0,-8 30,0 0,-42.9980469 L -121,-8 Z m 1,1 68,0 0,41 -68,0 0,-41 z m 1,1 0,38 66,0 0,-38 -66,0 z m 1,1 64,0 0,36 -64,0 0,-36 z m 72,5 8,0 0,8 -8,0 0,-8 z m -44,35 8,0 0,8 -8,0 0,-8 z" transform="translate(128,64)" id="path4309-9" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
+      <path id="path4319" d="m 26,65 32,0 0,24 -32,0 0,-24 z m 6,23 25,0 0,-15 -25,0 0,15 z m 25,-16 0,-1 -30,0 0,1 30,0 z m -30,1 4,0 0,15 -4,0 0,-15 z m 21,-5 c 0,-0.5523 -0.4477,-1 -1,-1 -0.5523,0 -1,0.4477 -1,1 0,0.5522 0.4477,1 1,1 0.5523,0 1,-0.4478 1,-1 z m 4,0 c 0,-0.5523 -0.4477,-1 -1,-1 -0.5523,0 -1,0.4477 -1,1 0,0.5522 0.4477,1 1,1 0.5523,0 1,-0.4478 1,-1 z m 4,0 c 0,-0.5523 -0.4477,-1 -1,-1 -0.5523,0 -1,0.4477 -1,1 0,0.5522 0.4477,1 1,1 0.5523,0 1,-0.4478 1,-1 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Accent"/>
+      <path id="path4321" d="m 94.1875,32.5626 3.5605,-3.5625 0.0021,0.0019 1.4121,1.4121 -2.168,2.168 -9.498,9.5 11.6679,11.666 -0.002,0.002 L 97.75,55.1622 86.082,43.4962 77.9766,51.6017 77.1504,52.4278 75.5782,54 73.2499,54 73,53.7501 75.2852,51.4649 84.668,42.0821 76.5625,33.9767 75.7363,33.1505 73,30.4161 l 1.4141,-1.4141 2.1679,2.168 0.1172,0.1172 9.3828,9.3809 8.1055,-8.1055 z" inkscape:connector-curvature="0" style="clip-rule:evenodd;fill:#da4453;fill-rule:evenodd"/>
+    </g>
+		</svg>
+	{/if}

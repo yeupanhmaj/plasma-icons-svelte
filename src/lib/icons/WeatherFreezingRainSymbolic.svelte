@@ -1,0 +1,34 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 48,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 48 48"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<g id="weather-freezing-rain-symbolic" class="ColorScheme-Text"  fill="currentColor" stroke-linejoin="bevel">
+  <path id="cloud" d="m32.95 17.08a 9 9 0 0 0 -8.95-8.08 a 9 9 0 0 0 -8.36 12.31 a 5 5 0 1 0 -1.63 9.69h18a 7 7 0 0 0 0.95 -13.92 z" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="m12 33-3 3 3 3 3-3-3-3z"/>
+  <path d="m28 33-3 3 3 3 3-3-3-3z"/>
+  <path d="m16 39-3 3 3 3 3-3-3-3z"/>
+  <path d="m32 39-3 3 3 3 3-3-3-3z"/>
+  <path d="m22.59 40.59a2 2 0 0 0 0 2.8284 2 2 0 0 0 2.8284 0 2 2 0 0 0 0-2.8284l-1.4142-1.4142-1.4142 1.4142z"/>
+  <path d="m 6.59 40.59a2 2 0 0 0 0 2.8284 2 2 0 0 0 2.8284 0 2 2 0 0 0 0-2.8284l-1.4142-1.4142-1.4142 1.4142z"/>
+  <path d="m34.59 34.59a2 2 0 0 0 0 2.8284 2 2 0 0 0 2.8284 0 2 2 0 0 0 0-2.8284l-1.4142-1.4142-1.4142 1.4142z"/>
+  <path d="m18.59 34.59a2 2 0 0 0 0 2.8284 2 2 0 0 0 2.8284 0 2 2 0 0 0 0-2.8284l-1.4142-1.4142-1.4142 1.4142z"/>
+ </g>
+</svg>

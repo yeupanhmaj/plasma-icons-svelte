@@ -1,0 +1,31 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 22,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 22 22"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<g transform="translate(0,20) translate(22,-129)" id="showinfo">
+    <rect style="opacity:1;fill:none;fill-opacity:1;stroke:none" id="rect4400" width="22" height="22" x="-22" y="109"/>
+    <g transform="translate(-22,-921.3622)" id="layer1-8">
+      <rect class="ColorScheme-Text" y="1036.3622" x="10" height="2" width="2" id="rect4120" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+      <rect class="ColorScheme-Text" y="1039.3622" x="10" height="7" width="2" id="rect4124" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+      <path class="ColorScheme-Text" id="rect4129" transform="translate(0,1030.3622)" d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m 0,1 c 3.878,0 7,3.122 7,7 0,3.878 -3.122,7 -7,7 C 7.122,18 4,14.878 4,11 4,7.122 7.122,4 11,4 Z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+    </g>
+  </g>
+</svg>

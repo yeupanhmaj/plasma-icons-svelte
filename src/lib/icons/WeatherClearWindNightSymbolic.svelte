@@ -1,0 +1,29 @@
+<script lang="ts">
+	import type { IconProps } from '../types.js';
+
+	let {
+		size = 48,
+		color = 'currentColor',
+		class: className = '',
+		style = '',
+		...restProps
+	}: IconProps = $props();
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 48 48"
+	width={size}
+	height={size}
+	fill={color}
+	class="plasma-icon {className}"
+	style="color: {color}; {style}"
+	{...restProps}
+>
+	<g id="weather-clear-wind-symbolic">
+   <path class="ColorScheme-Text" d="m19 31 a14 14 0 0 1 3 -22  a15 15 0 0 0 -5.2 28 " fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="miter"/>
+   <path id="wind1" class="ColorScheme-Text" d="m22 32 h11 a3 3 0 1 0 -3 -3" stroke="currentColor" stroke-width="2" fill="none"/>
+   <path id="wind2" class="ColorScheme-Text" d="m19 35 h22 a3 3 0 1 0 -3 -3" stroke="currentColor" stroke-width="2" fill="none"/>
+   <path id="wind3" class="ColorScheme-Text" d="m21 38 h12 a3 3 0 1 1 -3 3"  stroke="currentColor" stroke-width="2" fill="none"/>
+ </g>
+</svg>
